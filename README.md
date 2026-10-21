@@ -22,10 +22,10 @@ npm run check      # valida o conteúdo + testes + build
 
 1. Com o [GitHub CLI](https://cli.github.com) logado, na pasta do projeto:
    ```bash
-   gh repo create comunid-criadores-estrategistas --public --source . --remote origin --push
+   gh repo create comunid-criador-estrategista --public --source . --remote origin --push
    ```
 2. No GitHub: **Settings › Pages › Source: GitHub Actions**.
-3. A cada `git push` na `main`, o workflow `.github/workflows/deploy.yml` valida, testa, gera o build e publica em `https://USUARIO.github.io/comunid-criadores-estrategistas/` (o progresso aparece na aba **Actions**).
+3. A cada `git push` na `main`, o workflow `.github/workflows/deploy.yml` valida, testa, gera o build e publica em `https://USUARIO.github.io/comunid-criador-estrategista/` (o progresso aparece na aba **Actions**).
 
 O build usa `base: "./"` e rotas com `#`, então funciona com qualquer nome de repositório.
 
