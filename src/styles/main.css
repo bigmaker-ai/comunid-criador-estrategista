@@ -418,3 +418,18 @@ h2 { font-size: clamp(22px, 2.6vw, 30px); font-weight: 700; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
 }
+
+/* ---------- página da live (versão enxuta) ---------- */
+.live-corpo { max-width: 900px; margin: 32px auto 0; display: grid; gap: 32px; }
+.live-corpo .guia { margin-bottom: 0; }
+.live-topo .acoes .botao { margin-top: 0; }
+.tarefa { background: rgba(249, 115, 22, .1); border: 1px solid rgba(249, 115, 22, .45); border-radius: var(--raio-g); padding: clamp(18px, 3vw, 26px); }
+.tarefa h2 { font-size: 21px; display: flex; gap: 10px; align-items: center; color: var(--laranja-2); }
+.tarefa ul { list-style: none; margin: 14px 0 0; padding: 0; display: grid; gap: 12px; }
+.tarefa li { display: flex; gap: 12px; align-items: flex-start; justify-content: space-between; }
+.tarefa li p { margin: 0; }
+.tarefa .marca-tempo { flex: none; border-color: var(--laranja); color: var(--laranja-2); }
+.tarefa .marca-tempo:hover { background: var(--laranja); color: #1d0e03; }
+.cortes-live h2 { display: flex; gap: 10px; align-items: center; }
+.cortes-live .guia__ajuda { margin-bottom: 18px; }
+.relacionados .ver-tudo { margin-top: 18px; }

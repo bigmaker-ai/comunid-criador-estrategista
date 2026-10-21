@@ -1,10 +1,19 @@
-// Página de um resumo de live: player/link da live, guia de navegação por tempo, sumário e texto.
-import { carregarMarkdown, porSlug, relacionados, urlDe } from "../lib/data.js";
+// Página de uma live: tarefa pedida (quando houver), guia de navegação por tempo e cortes da live.
+import { cortesDaLive, porSlug, urlDe } from "../lib/data.js";
 import { dataLonga, escapar, paraSegundos, tempo } from "../lib/format.js";
-import { renderizarMarkdown } from "../lib/markdown.js";
 import { criarPlayer, detectarFonte } from "../components/player.js";
-import { cardPara, erro, seloDemo, toast, vazio } from "../components/ui.js";
+import { cardVideo, erro, toast, vazio } from "../components/ui.js";
 import { icone } from "../components/icones.js";
+
+const botaoTempo = t => `<button type="button" class="marca-tempo" data-t="${paraSegundos(t)}">${escapar(tempo(paraSegundos(t)))}</button>`;
+
+function blocoTarefas(tarefas) {
+  if (!tarefas?.length) return "";
+  return `<section class="tarefa" id="tarefa" aria-labelledby="tarefa-titulo">
+    <h2 id="tarefa-titulo">${icone("estrela")} ${tarefas.length > 1 ? "Tarefas pedidas na live" : "Tarefa pedida na live"}</h2>
+    <ul>${tarefas.map(t => `<li><p>${escapar(t.texto)}</p>${t.t ? botaoTempo(t.t) : ""}</li>`).join("")}</ul>
+  </section>`;
+}
 
 function guiaNavegacao(capitulos) {
   if (!capitulos?.length) return "";
@@ -22,52 +31,48 @@ function guiaNavegacao(capitulos) {
 }
 
 export async function paginaLive(alvo, slug, query) {
-  let item, texto;
+  let item, cortes;
   try {
     item = await porSlug("lives", slug);
-    if (item?.conteudo) texto = await carregarMarkdown(item.conteudo);
+    cortes = item ? await cortesDaLive(item) : [];
   } catch (e) {
     alvo.innerHTML = erro(e);
     return;
   }
   if (!item) {
-    alvo.innerHTML = vazio({ titulo: "Resumo não encontrado", texto: "Confira a lista de resumos.", acao: { href: "#/lives", texto: "Ver resumos" } });
+    alvo.innerHTML = vazio({ titulo: "Live não encontrada", texto: "Confira a lista de lives.", acao: { href: "#/", texto: "Ver as lives" } });
     return;
   }
   document.title = `${item.titulo} · Resumos das lives`;
-  const { html, sumario } = renderizarMarkdown(texto || "");
   const fonte = detectarFonte(item.video);
   const podeEmbutir = fonte && (fonte.tipo === "arquivo" || fonte.tipo === "youtube");
   const linkLive = item.linkLive || fonte?.url;
-  const itensSumario = [...(item.capitulos?.length ? [{ id: "guia", texto: "Guia de navegação", nivel: 2 }] : []), ...sumario];
 
   alvo.innerHTML = `
-    <nav class="migalhas" aria-label="Você está em"><a href="#/">Início</a> / <a href="#/lives">Resumos das lives</a></nav>
+    <nav class="migalhas" aria-label="Você está em"><a href="#/">Lives</a> / ${escapar(item.titulo)}</nav>
     <header class="live-topo">
       <div class="live-topo__texto">
-        <div class="card__meta"><span class="chip">${escapar(item.categoria)}</span>${seloDemo(item)}</div>
         <h1>${escapar(item.titulo)}</h1>
         <p class="lead">${escapar(item.descricao)}</p>
         <p class="meta-linha">
           <span>${icone("calendario")} ${dataLonga(item.data)}</span>
           ${item.duracao ? `<span>${icone("relogio")} ${escapar(item.duracao)} de live</span>` : ""}
         </p>
-        ${linkLive ? `<a class="botao" href="${escapar(linkLive)}" target="_blank" rel="noopener">${icone("play")} Assistir à live completa</a>` : ""}
+        <div class="acoes">
+          ${linkLive ? `<a class="botao" href="${escapar(linkLive)}" target="_blank" rel="noopener">${icone("play")} Assistir à live completa</a>` : ""}
+          ${cortes.length ? `<a class="botao botao--sec" href="#" data-ir="cortes">${icone("tesoura")} ${cortes.length} melhores cortes</a>` : ""}
+        </div>
       </div>
       <div class="live-topo__midia">${podeEmbutir ? "" : item.miniatura ? `<img src="${escapar(urlDe(item.miniatura))}" alt="">` : ""}</div>
     </header>
-    <div class="leitura">
-      <aside class="sumario" aria-label="Sumário">
-        <details open>
-          <summary>${icone("lista")} Nesta página</summary>
-          <ol>${itensSumario.map(s => `<li class="n${s.nivel}"><a href="#" data-alvo="${s.id}">${escapar(s.texto)}</a></li>`).join("")}</ol>
-        </details>
-      </aside>
-      <article class="leitura__texto">
-        ${guiaNavegacao(item.capitulos)}
-        <div class="prosa">${html}</div>
-        <section class="relacionados" hidden><h2 id="cortes-relacionados">Cortes desta live</h2><div class="grade grade--video"></div></section>
-      </article>
+    <div class="live-corpo">
+      ${blocoTarefas(item.tarefas)}
+      ${guiaNavegacao(item.capitulos)}
+      ${cortes.length ? `<section class="cortes-live" id="cortes" aria-labelledby="cortes-titulo">
+        <h2 id="cortes-titulo">${icone("tesoura")} Cortes desta live</h2>
+        <p class="guia__ajuda">Os melhores trechos, com controle de velocidade.</p>
+        <div class="grade grade--video">${cortes.map(cardVideo).join("")}</div>
+      </section>` : ""}
     </div>`;
 
   let player = null;
@@ -75,8 +80,13 @@ export async function paginaLive(alvo, slug, query) {
     player = criarPlayer(alvo.querySelector(".live-topo__midia"), { video: item.video, miniatura: item.miniatura, titulo: item.titulo });
   }
 
-  // marcas de tempo (guia e texto)
   alvo.addEventListener("click", e => {
+    const ir = e.target.closest("[data-ir]");
+    if (ir) {
+      e.preventDefault();
+      document.getElementById(ir.dataset.ir)?.scrollIntoView({ behavior: "smooth", block: "start" });
+      return;
+    }
     const b = e.target.closest(".marca-tempo");
     if (!b) return;
     const seg = Number(b.dataset.t);
@@ -90,25 +100,7 @@ export async function paginaLive(alvo, slug, query) {
     }
   });
 
-  // sumário: rolagem suave + destaque da seção atual
-  const links = [...alvo.querySelectorAll(".sumario a")];
-  alvo.querySelector(".sumario").addEventListener("click", e => {
-    const a = e.target.closest("a[data-alvo]");
-    if (!a) return;
-    e.preventDefault();
-    document.getElementById(a.dataset.alvo)?.scrollIntoView({ behavior: "smooth", block: "start" });
-    if (matchMedia("(max-width: 960px)").matches) a.closest("details").open = false;
-  });
-  const obs = new IntersectionObserver(entradas => {
-    for (const en of entradas) {
-      if (!en.isIntersecting) continue;
-      links.forEach(l => l.classList.toggle("ativo", l.dataset.alvo === en.target.id));
-    }
-  }, { rootMargin: "-20% 0px -70% 0px" });
-  itensSumario.forEach(s => { const el = document.getElementById(s.id); if (el) obs.observe(el); });
-  if (matchMedia("(max-width: 960px)").matches) alvo.querySelector(".sumario details").open = false;
-
-  // ?s=secao rola até a seção; ?t=segundos destaca o capítulo
+  // ?s=cortes rola até a seção; ?t=segundos destaca o capítulo do guia
   const s = query.get("s");
   if (s) requestAnimationFrame(() => document.getElementById(s)?.scrollIntoView({ block: "start" }));
   const t = query.get("t");
@@ -118,12 +110,5 @@ export async function paginaLive(alvo, slug, query) {
       alvoT.closest("li").classList.add("piscar");
       requestAnimationFrame(() => alvoT.scrollIntoView({ block: "center" }));
     }
-  }
-
-  const rel = await relacionados(item.relacionados);
-  if (rel.length) {
-    const sec = alvo.querySelector(".relacionados");
-    sec.hidden = false;
-    sec.querySelector(".grade").innerHTML = rel.map(cardPara).join("");
   }
 }
