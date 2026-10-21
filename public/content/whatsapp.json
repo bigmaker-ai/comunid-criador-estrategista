@@ -1,0 +1,151 @@
+{
+  "itens": [
+    {
+      "id": "zap-2026-10-19-20",
+      "titulo": "Primeira aula, primeiros clientes e novo horário das aulas",
+      "slug": "primeira-aula-primeiros-clientes",
+      "categoria": "Resumo do grupo",
+      "data": "2026-10-20",
+      "periodo": "19/10 e 20/10",
+      "grupo": "principal",
+      "descricao": "A primeira aula destravou o roteiro, os primeiros contratos saíram já no primeiro presente e as aulas devem passar para segunda e quinta.",
+      "miniatura": "media/capas/zap-19-20.svg",
+      "tags": ["truque do presente", "abordagem", "contrato", "edição", "avisos"],
+      "importante": [
+        "Proposta da equipe (enquete aberta em 20/10): aulas toda segunda e quinta, às 20h16, em vez de segunda e quarta.",
+        "A aula 01 gravada já está na Hotmart. O Mapa das Vendas e os modelos de contrato (mensal, pontual, por permuta) e de briefing estão na aba “Materiais” da aula.",
+        "A equipe mandou dois áudios no grupo (20/10, por volta das 16h): um sobre como abordar para entregar o presente e outro sobre como puxar a reunião depois. Vale ouvir os dois.",
+        "Os avisos passaram a ficar separados das trocas, para quem não consegue acompanhar todas as mensagens."
+      ],
+      "topicos": [
+        {
+          "titulo": "Como foi a primeira aula",
+          "resumo": "A aula de segunda (19/10) foi um **resumão do que vem no mês de curso**. O que mais apareceu nas reações: o roteiro ficou muito mais simples do que parecia e muita gente nem tinha pensado em **contrato** antes. Quem perdeu pode ver a gravação na Hotmart. O resumo completo, com guia de navegação por tempo, está aqui no portal.",
+          "mensagens": [
+            { "quando": "2026-10-19 23:23", "trecho": "Destravei real! Tava muito preocupada em como criar roteiro, mas agora vi que é muito simples!", "busca": "agora vi que é muito simples" },
+            { "quando": "2026-10-19 23:02", "trecho": "Eu nem tinha pensado em contrato, mas realmente é algo muito importante", "busca": "Eu nem tinha pensado em contrato" }
+          ],
+          "links": [ { "titulo": "Resumo da aula 01 + guia de navegação", "url": "#/lives/aula-01-guia-inicial" } ]
+        },
+        {
+          "titulo": "Primeiros fechamentos (alguns já no primeiro presente)",
+          "resumo": "Vários membros contaram que **fecharam o primeiro cliente**. Houve casos de pacote de vídeos fechado na hora da gravação do presente, um pacote só de roteiros (sem gravar nem editar) e um primeiro interessado logo no primeiro presente enviado. A equipe reforçou o recado: o mercado está tão carente disso que muita gente não precisa nem dos 10 presentes para fechar.",
+          "mensagens": [
+            { "quando": "2026-10-19 19:34", "trecho": "Fui lá pra gravar o presente e a dona já falou que queria mais vídeos.", "busca": "a dona ja falou que queria mais videos" },
+            { "quando": "2026-10-20 17:16", "trecho": "Conseguiii fechar tbm!!! Nem acredito, dois fechamentos em dois dias seguidos", "busca": "dois fechamentos em dois dias seguidos" },
+            { "quando": "2026-10-20 17:38", "trecho": "Eu nem acreditava que iam me chamar. Só façam", "busca": "Eu nem acreditava que iam me chamar" }
+          ]
+        },
+        {
+          "titulo": "Abordagem: chegar no decisor sem parecer vendedor de internet",
+          "resumo": "Quem estava recebendo vácuo das lojas ouviu duas dicas práticas:\n\n- **Peça para ligar** em vez de fazer perguntas pelo WhatsApp. Por telefone dá para se apresentar, falar do trabalho e oferecer o presente na hora.\n- **É um jogo de volume**: em média, é preciso falar com uns 10 para conseguir 1 ou 2 interessados, no online e no presencial.\n\nPara eventos e networking (ex.: um encontro de donos de restaurante): mostre interesse genuíno pelo negócio da pessoa, pergunte como começou e, quando houver brecha, pergunte da presença online e ligue a dor dela ao seu serviço.",
+          "mensagens": [
+            { "quando": "2026-10-20 14:31", "trecho": "Pedir pra ligar ao invés de ficar fazendo perguntas pelo WhatsApp é melhor então", "busca": "Pedir pra ligar ao invés de ficar fazendo perguntas" },
+            { "quando": "2026-10-20 14:34", "trecho": "Geralmente você tem que falar com 10 pra conseguir 1-2 interessados", "busca": "falar com 10 pra conseguir 1-2 interessados" }
+          ]
+        },
+        {
+          "titulo": "Gravar comércio sem o lugar parecer vazio",
+          "resumo": "Dúvida comum: as pessoas fogem da câmera e o vídeo da loja fica com cara de lugar abandonado. A resposta da equipe:\n\n- **Converse antes de gravar**: apresente-se, explique que é um vídeo para o comércio e peça para a pessoa ficar à vontade.\n- Mostre movimento **sem mostrar rosto**: mãos trabalhando, pessoas de costas, alguém entrando, interagindo com um produto, sendo atendido.\n- Filme de longe, no zoom, mais escondido.\n- **Dirija cenas**: peça para um funcionário repetir uma ação que ele já faz.\n- Sempre respeite quem não quer aparecer.",
+          "mensagens": [
+            { "quando": "2026-10-20 12:42", "trecho": "o segredo é não depender só do que acontece espontaneamente, saca? como criadora estrategista, você também pode conduzir a gravação", "busca": "o segredo é não depender só do que acontece espontaneamente" }
+          ]
+        },
+        {
+          "titulo": "Quanto cobrar por cobertura de evento e stories",
+          "resumo": "Antes de dar preço, **entenda a entrega**: quantas horas, se há deslocamento entre locais, se os stories são em tempo real, se o reels é para o mesmo dia. Na cobertura de stories, a ideia é **contar uma história ao longo do dia** (bastidores, chegada, melhores momentos, reação do público, depoimento no fim). Para quem está começando, a sugestão foi algo entre **R$ 500 e R$ 1.000**, conforme horas e edição, com alimentação e deslocamento cobrados à parte.",
+          "mensagens": [
+            { "quando": "2026-10-20 09:35", "trecho": "não venda só a quantidade de stories ou o reel. você tem que deixar claro que está entregando seu olhar", "busca": "não venda só a quantidade de stories ou o reel" }
+          ]
+        },
+        {
+          "titulo": "Edição: feedbacks, CapCut e IA",
+          "resumo": "Os membros trocaram feedbacks nos presentes uns dos outros. Os pontos que mais apareceram:\n\n- Passe **mais devagar nos objetos** ou faça takes parados e de perto. Gravar e andar ao mesmo tempo treme e desfoca.\n- **Troque os takes na batida da música** para dar ritmo.\n- **Legenda na altura do peito**, para a pessoa olhar para o rosto e para o texto.\n- Modelos prontos do CapCut resolvem muita coisa (a equipe compartilhou um no grupo).\n\nTambém rolou uma conversa longa sobre **usar IA (Claude) para editar**: quem usa contou que a primeira edição sai cara e ruim, mas, depois de alguns dias ensinando o padrão, a IA passa a editar rápido e gastando pouco.",
+          "mensagens": [
+            { "quando": "2026-10-20 12:08", "trecho": "Evitar gravar e andar ao mesmo tempo pra não tremer também e desfocar.", "busca": "Evitar gravar e andar ao mesmo tempo" },
+            { "quando": "2026-10-19 12:43", "trecho": "Hoje ele edita gastando pouco pq criou um padrão de edição pra mim", "busca": "criou um padrão de edição pra mim" }
+          ]
+        },
+        {
+          "titulo": "Celular sem espaço para editar",
+          "resumo": "Problema recorrente de quem edita no celular. As dicas que funcionaram:\n\n1. Veja primeiro **o que está ocupando espaço**: Ajustes › Geral › Armazenamento do iPhone.\n2. **Esvazie a lixeira** de fotos e vídeos. O iPhone guarda os apagados por um tempo e eles continuam ocupando espaço.\n3. Apague **projetos antigos do CapCut**, que pesam bastante.",
+          "mensagens": [
+            { "quando": "2026-10-19 10:25", "trecho": "O ideal é você ver onde está sendo usado o seu armazenamento antes de sair apagando.", "busca": "Vai em ajustes> Geral> Armazenamento" }
+          ]
+        },
+        {
+          "titulo": "Ideia para testar: “antecipe sua Black Friday”",
+          "resumo": "Depois de entregar o presente, oferecer um pacote para deixar **vídeos estratégicos prontos para Black Friday e Natal**, já que o comércio fica uma loucura nessa época. Quem testar pode contar o resultado no grupo.",
+          "mensagens": [
+            { "quando": "2026-10-20 13:17", "trecho": "pensei até em oferecer uma ideia de “antecipe sua black friday”", "busca": "antecipe sua black friday" }
+          ]
+        }
+      ],
+      "relacionados": ["live-aula-01", "zap-2026-10-17-18"]
+    },
+    {
+      "id": "zap-2026-10-17-18",
+      "titulo": "Fim de semana do truque do presente",
+      "slug": "fim-de-semana-truque-do-presente",
+      "categoria": "Resumo do grupo",
+      "data": "2026-10-18",
+      "periodo": "17/10 e 18/10",
+      "grupo": "principal",
+      "descricao": "Antes da primeira aula, o grupo já estava na rua: primeiros vídeos-presente, como vencer o medo de oferecer, prazo de contrato e o post fixado com os 5 maiores ensinamentos.",
+      "miniatura": "media/capas/zap-17-18.svg",
+      "tags": ["truque do presente", "mentalidade", "abordagem", "contrato"],
+      "importante": [
+        "Leia o post fixado do grupo com os TOP 5 ensinamentos (resumidos no último tópico abaixo).",
+        "Quem fechar contrato a partir de um vídeo-presente pode pedir à equipe o modelo de contrato que eles usam.",
+        "As aulas ao vivo começaram na segunda (19/10), às 20h16, pelo Zoom. O link é enviado no grupo no dia."
+      ],
+      "topicos": [
+        {
+          "titulo": "Primeiros vídeos-presente e primeiros resultados",
+          "resumo": "O grupo encheu de **primeiros presentes**: hamburgueria, doceria, restaurante, casa de artesão, loja de amiga e até palestras de médicos. Um dos relatos mais comentados: o membro ofereceu um vídeo de graça, acabou escrevendo 4 roteiros, deu 1 de presente e vendeu os outros 3, pagando o curso na primeira aplicação.\n\nOutro caminho criativo: gravar trechos de palestras gratuitas, editar (cortando respiros, acelerando a fala e com legendas) e mandar de presente para as secretárias dos palestrantes.",
+          "mensagens": [
+            { "quando": "2026-10-17 08:07", "trecho": "O curso se pagou logo na primeira aplicação", "busca": "O curso se pagou logo na primeira aplicação" },
+            { "quando": "2026-10-17 18:36", "trecho": "Gravei trechos estratégicos das falas deles, editei cortando respiros, acelerei a fala, deixei dinâmico e coloquei legendas.", "busca": "Gravei trechos estratégicos das falas deles" }
+          ]
+        },
+        {
+          "titulo": "Medo de oferecer: como destravar",
+          "resumo": "Muita gente consegue escrever e editar, mas trava **na hora de oferecer**. Os conselhos dos colegas:\n\n- Comece por **qualquer comércio do bairro** que chame sua atenção, e olhe o Instagram dele antes.\n- Com desconhecidos costuma ser até mais fácil.\n- Você está **dando um presente**: é quase impossível recusar.\n- Gaguejar não é o fim do mundo. Depois do primeiro, os outros ficam muito mais fáceis.",
+          "mensagens": [
+            { "quando": "2026-10-17 09:42", "trecho": "o primeiro presente pra alguém que você não conhece é o primeiro passo pra destravar sua mentalidade", "busca": "é o primeiro passo pra destravar sua mentalidade" },
+            { "quando": "2026-10-17 09:46", "trecho": "Podemos estudar teoria o quanto for, só tem como aprender fazendo.", "busca": "só tem como aprender fazendo" }
+          ]
+        },
+        {
+          "titulo": "Contrato: por quanto tempo fechar?",
+          "resumo": "A equipe gosta de **começar com 3 meses**, porque na renovação dá para cobrar mais. Para quem tem receio de propor 3 meses logo de cara, a resposta veio em áudio no grupo. O modelo de contrato pode ser pedido à equipe, e o tema foi aprofundado na aula.",
+          "mensagens": [
+            { "quando": "2026-10-17 17:47", "trecho": "eu gosto de começar com 3 meses, por que na renovação você cobra mais", "busca": "eu gosto de começar com 3 meses" }
+          ]
+        },
+        {
+          "titulo": "Regra de ouro da abordagem",
+          "resumo": "**Nunca fale mal do trabalho de quem você quer fechar.** Analise e entenda o que pode melhorar, mas ofereça ideias novas de forma interessante, por exemplo: *“Percebi que você é muito boa na frente da câmera, pesquisei o que mais funciona no seu nicho e escrevi esse roteiro…”*",
+          "mensagens": [
+            { "quando": "2026-10-18 17:53", "trecho": "NUNCA fale mal da pessoa. Isso te tira do jogo na hora", "busca": "Isso te tira do jogo na hora" }
+          ]
+        },
+        {
+          "titulo": "Ideias para criar o próprio conteúdo",
+          "resumo": "Para quem quer transformar a própria rotina de trabalho em conteúdo, as sugestões foram:\n\n- Gravar **dentro do carro** (formato em alta no TikTok).\n- **Anotar pautas** do dia a dia: comentários positivos, histórias, conselhos que você ouve.\n- Contar a jornada **como uma série**: “episódio 1” da transição para criadora estrategista, mostrando inclusive a gravação dos vídeos-presente.",
+          "mensagens": [
+            { "quando": "2026-10-18 18:09", "trecho": "Como se fosse uma série da Netflix. O famoso episódio 1", "busca": "Como se fosse uma seria da Netflix" }
+          ]
+        },
+        {
+          "titulo": "Resumo do post fixado: TOP 5 ensinamentos",
+          "resumo": "1. **Truque do presente**: ir ao lugar › gravar › editar › presentear › pegar o contato › entregar › puxar reunião. O ideal é entregar na hora e já sair com reunião marcada. Média esperada: de 5 a 10 presentes para 1 cliente quente. O objetivo não é a pessoa postar: ou vira cliente, ou vira portfólio.\n2. **Faz e melhora no próximo**: antes da qualidade, perder o medo. Não tome decisão no desespero.\n3. **Abordagem e venda**: call é melhor que WhatsApp; comece por família e conhecidos; comece pelo preço com que você se sente confortável e suba no próximo; receba adiantado ou pelo menos 50%.\n4. **Presente online**: análise de perfil como presente (os vídeos que mais performaram e a sugestão de repetir os formatos); chegue respondendo um story e proponha uma call rápida.\n5. **Gravação e edição**: vários takes com o pause da câmera; braços travados e movimento pelo quadril; legenda na altura do peito; cortes secos; nada de filmar de baixo para cima; e pegar a fachada com o nome inteiro.",
+          "mensagens": [
+            { "quando": "2026-10-18 19:46", "trecho": "🎯 TOP 5 ENSINAMENTOS DO GRUPO", "busca": "TOP 5 ENSINAMENTOS DO GRUPO" }
+          ]
+        }
+      ],
+      "relacionados": ["zap-2026-10-19-20"]
+    }
+  ]
+}

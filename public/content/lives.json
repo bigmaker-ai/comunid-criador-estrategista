@@ -1,0 +1,62 @@
+{
+  "itens": [
+    {
+      "id": "live-aula-01",
+      "titulo": "Aula 01: Guia inicial do Criador Estrategista",
+      "slug": "aula-01-guia-inicial",
+      "categoria": "Aula ao vivo",
+      "data": "2026-10-19",
+      "duracao": "2:41:04",
+      "descricao": "O caminho completo em uma aula: truque do presente, edição na batida, reunião com o Mapa das Vendas, contrato, briefing e roteiro com IA. Tudo com os tempos certinhos para você ir direto ao ponto.",
+      "miniatura": "media/capas/aula-01.jpg",
+      "conteudo": "lives/aula-01-guia-inicial.md",
+      "linkLive": "https://hotmart.com/en/club/edicaodofuturopelocapcut/products/8686250/content/NOw32aM2Om",
+      "video": "",
+      "tags": ["truque do presente", "edição", "vendas", "contrato", "briefing", "roteiro", "IA"],
+      "capitulos": [
+        { "t": "0:03:30", "titulo": "Boas-vindas e como vai ser o mês", "resumo": "Primeira aula da turma fundadora: hoje é o caminho completo de forma rápida. As próximas aulas aprofundam cada etapa." },
+        { "t": "0:06:34", "titulo": "As duas metas: dinheiro de volta e SPP 3K", "resumo": "Recuperar o valor do curso no mês e montar o Sistema Previsível de Pix de R$ 3 mil com clientes recorrentes." },
+        { "t": "0:11:50", "titulo": "O que é o truque do presente", "resumo": "Uma amostra do seu trabalho em vídeo, em vez de prometer mil coisas.", "destaque": true },
+        { "t": "0:14:56", "titulo": "Bastidores: o presente gravado no restaurante", "resumo": "O vídeo feito em 5 minutos, comentado passo a passo." },
+        { "t": "0:17:35", "titulo": "Duração ideal e simplicidade do primeiro presente", "resumo": "De 15 s a 1 min, só o lugar na batida da música. Nada de roteiro no primeiro." },
+        { "t": "0:18:39", "titulo": "Olhar estratégico na gravação", "resumo": "Varie lente (0,5x, 1x, 2x) e ângulo, grave detalhes que geram desejo." },
+        { "t": "0:23:32", "titulo": "Não aceite “manda no direct”", "resumo": "O presente é a porta: saia com o contato de quem decide.", "destaque": true },
+        { "t": "0:26:04", "titulo": "Pause da câmera + o macete do 1,5 segundo", "resumo": "Grave contando “um, um” e o vídeo já sai praticamente na batida.", "destaque": true },
+        { "t": "0:28:35", "titulo": "Comece com o celular que você tem", "resumo": "E reinvista o que ganhar em equipamento para cobrar mais no próximo." },
+        { "t": "0:32:10", "titulo": "Editar na batida: Edits (Batidas) e CapCut (Ritmos)", "resumo": "Passo a passo na tela: marcar as batidas e dividir os takes nas bolinhas.", "destaque": true },
+        { "t": "0:40:50", "titulo": "Fruta baixa: para quem oferecer o primeiro presente", "resumo": "Família, conhecidos e comércios perto de casa." },
+        { "t": "0:42:24", "titulo": "Como abordar: chegando gravando ou pela internet", "resumo": "Dois roteiros de abordagem (presencial e online) e o cuidado com o fone Bluetooth na edição." },
+        { "t": "0:47:00", "titulo": "Do presente à reunião", "resumo": "Marque o mais rápido possível, sempre dando duas opções de horário." },
+        { "t": "0:52:36", "titulo": "Mapa das Vendas: personagem, problema e guia", "resumo": "Como conduzir a reunião: o cliente é o personagem, você é o guia.", "destaque": true },
+        { "t": "0:58:42", "titulo": "Problema externo, interno e filosófico", "resumo": "Entenda o que acontece, como o cliente se sente e o que ele acha justo." },
+        { "t": "1:02:47", "titulo": "A primeira reunião é uma consulta médica", "resumo": "Colete informação: quem pergunta domina." },
+        { "t": "1:04:50", "titulo": "Fechamento: Pix ou cartão?", "resumo": "Nunca pergunte “e aí, gostou?”. Dê duas opções. E como responder ao “tá caro”." },
+        { "t": "1:08:26", "titulo": "A pergunta de 0 a 10", "resumo": "O que falta para esse 7 virar 10? A técnica que revela as objeções.", "destaque": true },
+        { "t": "1:12:00", "titulo": "Por que fazer duas reuniões", "resumo": "Reunião do desabafo + reunião do plano, com no máximo 72 h entre elas." },
+        { "t": "1:16:05", "titulo": "“Minha agenda já está cheia”", "resumo": "Conteúdo também serve para cobrar mais caro." },
+        { "t": "1:19:08", "titulo": "Negociando o preço na prática", "resumo": "Exemplo de 10 vídeos por R$ 1.000 que fecha em R$ 750 na hora." },
+        { "t": "1:21:10", "titulo": "Caso real: “vou ver com o financeiro”", "resumo": "Como não deixar a proposta morrer." },
+        { "t": "1:24:44", "titulo": "Prometa trabalho, não resultado", "resumo": "E entenda que resultado é relativo para cada cliente.", "destaque": true },
+        { "t": "1:26:16", "titulo": "Cliente em outro estado", "resumo": "Roteiro com direção de cena para a pessoa gravar sozinha." },
+        { "t": "1:31:20", "titulo": "Os três modelos de contrato", "resumo": "Pontual, mensal e por permuta." },
+        { "t": "1:33:12", "titulo": "Presente é volume", "resumo": "De 5 a 10 presentes para cada cliente. A fórmula funciona, mas não é mágica.", "destaque": true },
+        { "t": "1:35:27", "titulo": "“Já tenho editor”", "resumo": "Criador estrategista não é editor nem social media." },
+        { "t": "1:37:30", "titulo": "Preenchendo o contrato", "resumo": "Prazos contados a partir do briefing, 50% na assinatura, alimentação e deslocamento à parte." },
+        { "t": "1:41:33", "titulo": "Sempre faça contrato", "resumo": "Protege você e o cliente. Como apresentar sem assustar.", "destaque": true },
+        { "t": "1:43:37", "titulo": "Briefing de conteúdo, pergunta a pergunta", "resumo": "Negócio, cliente do cliente, concorrentes, objetivo e CTA, diferencial, tom e o que evitar." },
+        { "t": "1:56:59", "titulo": "Você vira uma fonte de clareza", "resumo": "Ajudar o cliente a responder o briefing já é o primeiro resultado." },
+        { "t": "2:00:06", "titulo": "Pesquisa de referências virais", "resumo": "Busca por palavras-chave no Instagram e no TikTok, pasta de salvos e o vídeo simples com 9 milhões de views.", "destaque": true },
+        { "t": "2:05:13", "titulo": "Replicar a estrutura, não copiar", "resumo": "Como transcrever a referência: Gemini, ChatGPT ou baixar e usar o transcript do CapCut." },
+        { "t": "2:13:39", "titulo": "Roteiro com ChatGPT: um projeto por cliente", "resumo": "Briefing + formatos validados + estruturas + elementos viciantes como fontes. E o prompt completo.", "destaque": true },
+        { "t": "2:24:52", "titulo": "Deixe claro o próximo passo para o cliente", "resumo": "O cliente nunca deve perguntar o que vem depois." },
+        { "t": "2:29:46", "titulo": "Gravação frase a frase", "resumo": "Sem decorar e sem teleprompter: você fala, o cliente repete.", "destaque": true },
+        { "t": "2:37:14", "titulo": "Ajustando o roteiro da IA", "resumo": "Feedback direto e “explique como para uma criança de 5 anos”." },
+        { "t": "2:39:18", "titulo": "Missão da semana e o que vem na próxima aula", "resumo": "Aplicar o truque do presente. Na próxima: react dos presentes e perguntas e respostas." }
+      ],
+      "relacionados": [
+        "corte-aula01-01", "corte-aula01-02", "corte-aula01-03", "corte-aula01-04", "corte-aula01-05", "corte-aula01-06",
+        "corte-aula01-07", "corte-aula01-08", "corte-aula01-09", "corte-aula01-10", "corte-aula01-11"
+      ]
+    }
+  ]
+}

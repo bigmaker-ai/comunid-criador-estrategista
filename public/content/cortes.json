@@ -1,0 +1,240 @@
+{
+  "itens": [
+    {
+      "id": "corte-aula01-01",
+      "titulo": "O que é o truque do presente (e por que funciona)",
+      "slug": "o-que-e-o-truque-do-presente",
+      "categoria": "Truque do presente",
+      "data": "2026-10-19",
+      "duracao": "1:17",
+      "descricao": "Em vez de prospectar prometendo mil coisas, você entrega uma amostra do seu trabalho. A Isa explica o método que deu certo com praticamente todos os clientes deles.",
+      "miniatura": "media/cortes/01-o-que-e-o-truque-do-presente.jpg",
+      "video": "media/cortes/01-o-que-e-o-truque-do-presente.mp4",
+      "fonte": "#/lives/aula-01-guia-inicial?t=711",
+      "rotuloFonte": "Ver no guia da live (11:52)",
+      "destaque": true,
+      "tags": [
+        "truque do presente",
+        "prospecção"
+      ],
+      "relacionados": [
+        "live-aula-01"
+      ]
+    },
+    {
+      "id": "corte-aula01-02",
+      "titulo": "Não aceite “manda no direct”",
+      "slug": "nao-aceite-manda-no-direct",
+      "categoria": "Truque do presente",
+      "data": "2026-10-19",
+      "duracao": "0:40",
+      "descricao": "O presente é uma porta. Se você sai sem o contato de quem decide, deixa o cliente a ver navios.",
+      "miniatura": "media/cortes/02-nao-aceite-manda-no-direct.jpg",
+      "video": "media/cortes/02-nao-aceite-manda-no-direct.mp4",
+      "fonte": "#/lives/aula-01-guia-inicial?t=1412",
+      "rotuloFonte": "Ver no guia da live (23:32)",
+      "destaque": true,
+      "tags": [
+        "truque do presente",
+        "abordagem"
+      ],
+      "relacionados": [
+        "live-aula-01"
+      ]
+    },
+    {
+      "id": "corte-aula01-03",
+      "titulo": "O macete do 1,5 segundo para gravar já na batida",
+      "slug": "macete-do-segundo-e-meio",
+      "categoria": "Gravação",
+      "data": "2026-10-19",
+      "duracao": "1:07",
+      "descricao": "Pause da câmera + contar “um, um” na cabeça: o vídeo sai praticamente editado na música.",
+      "miniatura": "media/cortes/03-macete-do-segundo-e-meio.jpg",
+      "video": "media/cortes/03-macete-do-segundo-e-meio.mp4",
+      "fonte": "#/lives/aula-01-guia-inicial?t=1564",
+      "rotuloFonte": "Ver no guia da live (26:04)",
+      "destaque": true,
+      "tags": [
+        "gravação",
+        "edição",
+        "batida"
+      ],
+      "relacionados": [
+        "live-aula-01"
+      ]
+    },
+    {
+      "id": "corte-aula01-04",
+      "titulo": "Comece com o celular que você tem",
+      "slug": "comece-com-o-celular-que-voce-tem",
+      "categoria": "Mentalidade",
+      "data": "2026-10-19",
+      "duracao": "0:53",
+      "descricao": "Rodrigo começou com um iPhone todo trincado. Comece com o que tem e reinvista no seu trabalho.",
+      "miniatura": "media/cortes/04-comece-com-o-celular-que-voce-tem.jpg",
+      "video": "media/cortes/04-comece-com-o-celular-que-voce-tem.mp4",
+      "fonte": "#/lives/aula-01-guia-inicial?t=1715",
+      "rotuloFonte": "Ver no guia da live (28:35)",
+      "destaque": false,
+      "tags": [
+        "equipamento",
+        "mentalidade"
+      ],
+      "relacionados": [
+        "live-aula-01"
+      ]
+    },
+    {
+      "id": "corte-aula01-05",
+      "titulo": "A pergunta de 0 a 10 que revela as objeções",
+      "slug": "a-pergunta-de-0-a-10",
+      "categoria": "Vendas",
+      "data": "2026-10-19",
+      "duracao": "1:34",
+      "descricao": "“O que falta para esse 7 virar 10?” A técnica para o cliente contar o que impede o fechamento.",
+      "miniatura": "media/cortes/05-a-pergunta-de-0-a-10.jpg",
+      "video": "media/cortes/05-a-pergunta-de-0-a-10.mp4",
+      "fonte": "#/lives/aula-01-guia-inicial?t=4106",
+      "rotuloFonte": "Ver no guia da live (1:08:27)",
+      "destaque": true,
+      "tags": [
+        "vendas",
+        "reunião",
+        "objeções"
+      ],
+      "relacionados": [
+        "live-aula-01"
+      ]
+    },
+    {
+      "id": "corte-aula01-06",
+      "titulo": "Prometa trabalho, não resultado",
+      "slug": "prometa-trabalho-nao-resultado",
+      "categoria": "Vendas",
+      "data": "2026-10-19",
+      "duracao": "1:32",
+      "descricao": "O medo de prometer e não entregar some quando você entende o que prometer e o que é resultado para cada cliente.",
+      "miniatura": "media/cortes/06-prometa-trabalho-nao-resultado.jpg",
+      "video": "media/cortes/06-prometa-trabalho-nao-resultado.mp4",
+      "fonte": "#/lives/aula-01-guia-inicial?t=5084",
+      "rotuloFonte": "Ver no guia da live (1:24:44)",
+      "destaque": true,
+      "tags": [
+        "vendas",
+        "mentalidade",
+        "resultado"
+      ],
+      "relacionados": [
+        "live-aula-01"
+      ]
+    },
+    {
+      "id": "corte-aula01-07",
+      "titulo": "Presente é volume: a fórmula funciona, mas não é mágica",
+      "slug": "presente-e-volume",
+      "categoria": "Truque do presente",
+      "data": "2026-10-19",
+      "duracao": "1:48",
+      "descricao": "De 5 a 10 presentes para fechar 1 cliente. Fechar no primeiro é exceção. O primeiro passo é desbloquear.",
+      "miniatura": "media/cortes/07-presente-e-volume.jpg",
+      "video": "media/cortes/07-presente-e-volume.mp4",
+      "fonte": "#/lives/aula-01-guia-inicial?t=5592",
+      "rotuloFonte": "Ver no guia da live (1:33:12)",
+      "destaque": false,
+      "tags": [
+        "truque do presente",
+        "mentalidade"
+      ],
+      "relacionados": [
+        "live-aula-01"
+      ]
+    },
+    {
+      "id": "corte-aula01-08",
+      "titulo": "Sempre faça contrato (e como apresentar sem assustar)",
+      "slug": "sempre-faca-contrato",
+      "categoria": "Contrato",
+      "data": "2026-10-19",
+      "duracao": "1:18",
+      "descricao": "Mesmo com cliente gente boa. O contrato protege você e protege o cliente.",
+      "miniatura": "media/cortes/08-sempre-faca-contrato.jpg",
+      "video": "media/cortes/08-sempre-faca-contrato.mp4",
+      "fonte": "#/lives/aula-01-guia-inicial?t=6093",
+      "rotuloFonte": "Ver no guia da live (1:41:33)",
+      "destaque": false,
+      "tags": [
+        "contrato",
+        "vendas"
+      ],
+      "relacionados": [
+        "live-aula-01"
+      ]
+    },
+    {
+      "id": "corte-aula01-09",
+      "titulo": "Celular na mesa, legenda automática: 9 milhões de views",
+      "slug": "video-simples-9-milhoes",
+      "categoria": "Roteiro",
+      "data": "2026-10-19",
+      "duracao": "0:40",
+      "descricao": "Seu cliente quer um vídeo cinematográfico ou uma parada que funcione?",
+      "miniatura": "media/cortes/09-video-simples-9-milhoes.jpg",
+      "video": "media/cortes/09-video-simples-9-milhoes.mp4",
+      "fonte": "#/lives/aula-01-guia-inicial?t=7347",
+      "rotuloFonte": "Ver no guia da live (2:02:27)",
+      "destaque": false,
+      "tags": [
+        "referências",
+        "roteiro",
+        "viral"
+      ],
+      "relacionados": [
+        "live-aula-01"
+      ]
+    },
+    {
+      "id": "corte-aula01-10",
+      "titulo": "Deixe sempre claro o próximo passo para o cliente",
+      "slug": "deixe-claro-o-proximo-passo",
+      "categoria": "Atendimento",
+      "data": "2026-10-19",
+      "duracao": "1:22",
+      "descricao": "O cliente nunca deve chegar até você perguntando o que vem depois.",
+      "miniatura": "media/cortes/10-deixe-claro-o-proximo-passo.jpg",
+      "video": "media/cortes/10-deixe-claro-o-proximo-passo.mp4",
+      "fonte": "#/lives/aula-01-guia-inicial?t=8692",
+      "rotuloFonte": "Ver no guia da live (2:24:52)",
+      "destaque": false,
+      "tags": [
+        "cliente",
+        "processo"
+      ],
+      "relacionados": [
+        "live-aula-01"
+      ]
+    },
+    {
+      "id": "corte-aula01-11",
+      "titulo": "Gravação frase a frase: sem decorar, sem teleprompter",
+      "slug": "gravacao-frase-a-frase",
+      "categoria": "Gravação",
+      "data": "2026-10-19",
+      "duracao": "1:46",
+      "descricao": "Você fala, o cliente repete. Na edição ninguém percebe, e foi assim que eles gravaram os próprios vídeos.",
+      "miniatura": "media/cortes/11-gravacao-frase-a-frase.jpg",
+      "video": "media/cortes/11-gravacao-frase-a-frase.mp4",
+      "fonte": "#/lives/aula-01-guia-inicial?t=8986",
+      "rotuloFonte": "Ver no guia da live (2:29:47)",
+      "destaque": true,
+      "tags": [
+        "gravação",
+        "roteiro",
+        "direção"
+      ],
+      "relacionados": [
+        "live-aula-01"
+      ]
+    }
+  ]
+}

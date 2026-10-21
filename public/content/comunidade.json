@@ -1,0 +1,31 @@
+{
+  "itens": [
+    {
+      "id": "comunidade-demo-02",
+      "titulo": "Exemplo: primeiro vídeo editado no celular",
+      "slug": "demo-primeiro-video-editado-no-celular",
+      "categoria": "Edição",
+      "data": "2026-10-17",
+      "demo": true,
+      "autor": "Apelido Exemplo",
+      "descricao": "EXEMPLO FICTÍCIO: assim aparece um vídeo enviado por um membro. Coloque em \"video\" um link do YouTube ou do Google Drive.",
+      "miniatura": "img/demo/capa-demo-2.svg",
+      "tags": ["demonstração", "edição", "celular"],
+      "video": "",
+      "relacionados": []
+    },
+    {
+      "id": "comunidade-demo-01",
+      "titulo": "Exemplo: bastidores de uma gravação",
+      "slug": "demo-bastidores-de-uma-gravacao",
+      "categoria": "Bastidores",
+      "data": "2026-10-11",
+      "demo": true,
+      "descricao": "EXEMPLO FICTÍCIO sem autor informado (o apelido é opcional).",
+      "miniatura": "img/demo/capa-demo-3.svg",
+      "tags": ["demonstração", "bastidores"],
+      "video": "",
+      "relacionados": []
+    }
+  ]
+}
