@@ -1,4 +1,4 @@
-// Página de uma live: tarefa pedida (quando houver), guia de navegação por tempo e cortes da live.
+// Página de uma live: tarefa pedida (quando houver), cortes da live e guia de navegação por tempo.
 import { cortesDaLive, porSlug, urlDe } from "../lib/data.js";
 import { dataLonga, escapar, paraSegundos, tempo } from "../lib/format.js";
 import { criarPlayer, detectarFonte } from "../components/player.js";
@@ -67,12 +67,12 @@ export async function paginaLive(alvo, slug, query) {
     </header>
     <div class="live-corpo">
       ${blocoTarefas(item.tarefas)}
-      ${guiaNavegacao(item.capitulos)}
       ${cortes.length ? `<section class="cortes-live" id="cortes" aria-labelledby="cortes-titulo">
         <h2 id="cortes-titulo">${icone("tesoura")} Cortes desta live</h2>
         <p class="guia__ajuda">Os melhores trechos, com controle de velocidade.</p>
         <div class="grade grade--video">${cortes.map(cardVideo).join("")}</div>
       </section>` : ""}
+      ${guiaNavegacao(item.capitulos)}
     </div>`;
 
   let player = null;

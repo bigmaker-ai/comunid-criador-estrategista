@@ -6,7 +6,7 @@ Rode `npm run check` antes (valida o conteúdo, roda os testes e gera o build). 
 
 - [ ] Player: play/pause e barra de progresso. ±10 s nos botões, **velocidade 0,5x a 2x** no menu, `<` e `>` mudam a velocidade, `espaço`, `←` `→`, `f` (tela cheia), `m` (mudo). A velocidade escolhida é lembrada no próximo vídeo.
 - [ ] Corte › “Ver no guia da live”: abre o resumo com o capítulo destacado.
-- [ ] Página da live: tarefas no topo, guia e cortes abaixo. Clicar num tempo abre a live (Hotmart) e mostra o aviso com o tempo copiado. Os cortes aparecem no fim da página.
+- [ ] Página da live: tarefas no topo, depois cortes e guia de navegação. Clicar num tempo abre a live (Hotmart) e mostra o aviso com o tempo copiado. Os cortes aparecem no fim da página.
 - [ ] Endereço inexistente (`#/qualquer-coisa`): mostra a página “não encontrada”.
 - [ ] Teclado: `Tab` percorre links e botões com contorno visível. “Pular para o conteúdo” aparece no primeiro `Tab`.
 
