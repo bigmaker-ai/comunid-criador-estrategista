@@ -191,6 +191,516 @@
         "roteiro",
         "direção"
       ]
+    },
+    {
+      "id": "corte-aula03-01",
+      "titulo": "“Facas reconhecem facas”: a carta que abriu R$ 200 mil em contratos",
+      "slug": "aula03-a-carta-que-virou-contratos",
+      "categoria": "Prospecção",
+      "data": "2026-10-23",
+      "duracao": "3:17",
+      "descricao": "Um presente num evento e um bilhete na mesa certa viraram o tour de uma expert pelo Brasil e mais indicações.",
+      "miniatura": "media/cortes/aula03-01-a-carta-que-virou-contratos.jpg",
+      "video": "media/cortes/aula03-01-a-carta-que-virou-contratos.mp4",
+      "fonte": "#/lives/aula-03-pcf-caminho-da-venda?t=2808",
+      "rotuloFonte": "Ver no guia da live (46:48)",
+      "tags": [
+        "truque do presente",
+        "prospecção",
+        "case"
+      ]
+    },
+    {
+      "id": "corte-aula03-02",
+      "titulo": "Os princípios de uma mensagem de prospecção que funciona",
+      "slug": "aula03-principios-da-mensagem-de-prospeccao",
+      "categoria": "Prospecção",
+      "data": "2026-10-23",
+      "duracao": "1:54",
+      "descricao": "As pessoas não querem saber de você: comece pelo porquê, mostre o problema que resolve e convide para uma conversa.",
+      "miniatura": "media/cortes/aula03-02-principios-da-mensagem-de-prospeccao.jpg",
+      "video": "media/cortes/aula03-02-principios-da-mensagem-de-prospeccao.mp4",
+      "fonte": "#/lives/aula-03-pcf-caminho-da-venda?t=3204",
+      "rotuloFonte": "Ver no guia da live (53:25)",
+      "tags": [
+        "prospecção",
+        "mensagem"
+      ]
+    },
+    {
+      "id": "corte-aula03-03",
+      "titulo": "Quem pergunta domina, quem responde é dominado",
+      "slug": "aula03-quem-pergunta-domina",
+      "categoria": "Vendas",
+      "data": "2026-10-23",
+      "duracao": "2:52",
+      "descricao": "Por que você vira panfleteiro quando já sai mandando preço, e como perguntar para descobrir o que o cliente quer.",
+      "miniatura": "media/cortes/aula03-03-quem-pergunta-domina.jpg",
+      "video": "media/cortes/aula03-03-quem-pergunta-domina.mp4",
+      "fonte": "#/lives/aula-03-pcf-caminho-da-venda?t=4165",
+      "rotuloFonte": "Ver no guia da live (1:09:26)",
+      "tags": [
+        "vendas",
+        "relacionamento"
+      ]
+    },
+    {
+      "id": "corte-aula03-04",
+      "titulo": "Venda o que é certeza e prometa o trabalho",
+      "slug": "aula03-venda-a-certeza-prometa-o-trabalho",
+      "categoria": "Vendas",
+      "data": "2026-10-23",
+      "duracao": "1:39",
+      "descricao": "Separe o que você pode garantir do que depende de testes. Assim o preço deixa de parecer caro.",
+      "miniatura": "media/cortes/aula03-04-venda-a-certeza-prometa-o-trabalho.jpg",
+      "video": "media/cortes/aula03-04-venda-a-certeza-prometa-o-trabalho.mp4",
+      "fonte": "#/lives/aula-03-pcf-caminho-da-venda?t=4665",
+      "rotuloFonte": "Ver no guia da live (1:17:45)",
+      "tags": [
+        "vendas",
+        "valor"
+      ]
+    },
+    {
+      "id": "corte-aula03-05",
+      "titulo": "Coragem não é ausência de medo",
+      "slug": "aula03-coragem-e-ir-com-medo",
+      "categoria": "Mentalidade",
+      "data": "2026-10-23",
+      "duracao": "0:46",
+      "descricao": "Os primeiros vídeos do Rodrigo eram ruins, e ele foi assim mesmo: melhora e cobra mais no próximo.",
+      "miniatura": "media/cortes/aula03-05-coragem-e-ir-com-medo.jpg",
+      "video": "media/cortes/aula03-05-coragem-e-ir-com-medo.mp4",
+      "fonte": "#/lives/aula-03-pcf-caminho-da-venda?t=5798",
+      "rotuloFonte": "Ver no guia da live (1:36:38)",
+      "tags": [
+        "mentalidade"
+      ]
+    },
+    {
+      "id": "corte-aula03-06",
+      "titulo": "Follow-up: a mensagem para quem sumiu",
+      "slug": "aula03-follow-up-para-quem-sumiu",
+      "categoria": "Vendas",
+      "data": "2026-10-23",
+      "duracao": "2:00",
+      "descricao": "Como retomar a conversa com quem não respondeu sem ser chato, misturando razão e emoção.",
+      "miniatura": "media/cortes/aula03-06-follow-up-para-quem-sumiu.jpg",
+      "video": "media/cortes/aula03-06-follow-up-para-quem-sumiu.mp4",
+      "fonte": "#/lives/aula-03-pcf-caminho-da-venda?t=6040",
+      "rotuloFonte": "Ver no guia da live (1:40:40)",
+      "tags": [
+        "follow-up",
+        "vendas"
+      ]
+    },
+    {
+      "id": "corte-aula03-07",
+      "titulo": "A técnica das duas opções",
+      "slug": "aula03-tecnica-das-duas-opcoes",
+      "categoria": "Vendas",
+      "data": "2026-10-23",
+      "duracao": "0:47",
+      "descricao": "Pergunta fechada gera “não”. Dê duas opções e a pessoa escolhe uma delas.",
+      "miniatura": "media/cortes/aula03-07-tecnica-das-duas-opcoes.jpg",
+      "video": "media/cortes/aula03-07-tecnica-das-duas-opcoes.mp4",
+      "fonte": "#/lives/aula-03-pcf-caminho-da-venda?t=6604",
+      "rotuloFonte": "Ver no guia da live (1:50:05)",
+      "tags": [
+        "fechamento",
+        "vendas"
+      ]
+    },
+    {
+      "id": "corte-aula03-08",
+      "titulo": "“Vou pensar”: deixa eu te ajudar a pensar",
+      "slug": "aula03-vou-pensar-deixa-eu-te-ajudar",
+      "categoria": "Vendas",
+      "data": "2026-10-23",
+      "duracao": "0:51",
+      "descricao": "Pensar é estar com dúvida, e quem vende é quem pode responder.",
+      "miniatura": "media/cortes/aula03-08-vou-pensar-deixa-eu-te-ajudar.jpg",
+      "video": "media/cortes/aula03-08-vou-pensar-deixa-eu-te-ajudar.mp4",
+      "fonte": "#/lives/aula-03-pcf-caminho-da-venda?t=6778",
+      "rotuloFonte": "Ver no guia da live (1:52:59)",
+      "tags": [
+        "objeções",
+        "fechamento"
+      ]
+    },
+    {
+      "id": "corte-aula03-09",
+      "titulo": "A cliente que levou um mês e meio para fechar",
+      "slug": "aula03-a-cliente-que-levou-um-mes-e-meio",
+      "categoria": "Case",
+      "data": "2026-10-23",
+      "duracao": "2:02",
+      "descricao": "Do “não posso agora” a um contrato de R$ 21 mil à vista, com palavra combinada e sem perseguir a cliente.",
+      "miniatura": "media/cortes/aula03-09-a-cliente-que-levou-um-mes-e-meio.jpg",
+      "video": "media/cortes/aula03-09-a-cliente-que-levou-um-mes-e-meio.mp4",
+      "fonte": "#/lives/aula-03-pcf-caminho-da-venda?t=7253",
+      "rotuloFonte": "Ver no guia da live (2:00:54)",
+      "tags": [
+        "case",
+        "fechamento"
+      ]
+    },
+    {
+      "id": "corte-aula03-10",
+      "titulo": "Entregue mais do que promete e aumente o valor",
+      "slug": "aula03-entregue-mais-do-que-promete",
+      "categoria": "Entrega",
+      "data": "2026-10-23",
+      "duracao": "1:17",
+      "descricao": "Bônus que o cliente só descobre depois de comprar é o que faz o reajuste não incomodar.",
+      "miniatura": "media/cortes/aula03-10-entregue-mais-do-que-promete.jpg",
+      "video": "media/cortes/aula03-10-entregue-mais-do-que-promete.mp4",
+      "fonte": "#/lives/aula-03-pcf-caminho-da-venda?t=7663",
+      "rotuloFonte": "Ver no guia da live (2:07:44)",
+      "tags": [
+        "entrega",
+        "recorrência"
+      ]
+    },
+    {
+      "id": "corte-aula04-01",
+      "titulo": "As 4 coisas que toda bio precisa ter",
+      "slug": "aula04-as-4-coisas-de-uma-bio-que-vende",
+      "categoria": "Presente online",
+      "data": "2026-10-26",
+      "duracao": "1:42",
+      "descricao": "O que faz, autoridade, onde fica e chamada para ação: a análise de bio que vira presente.",
+      "miniatura": "media/cortes/aula04-01-as-4-coisas-de-uma-bio-que-vende.jpg",
+      "video": "media/cortes/aula04-01-as-4-coisas-de-uma-bio-que-vende.mp4",
+      "fonte": "#/lives/aula-04-truque-do-presente-online?t=701",
+      "rotuloFonte": "Ver no guia da live (11:41)",
+      "tags": [
+        "presente online",
+        "bio"
+      ]
+    },
+    {
+      "id": "corte-aula04-02",
+      "titulo": "Elogie antes de sugerir",
+      "slug": "aula04-elogie-antes-de-sugerir",
+      "categoria": "Abordagem",
+      "data": "2026-10-26",
+      "duracao": "1:11",
+      "descricao": "Nunca critique o perfil de quem você quer atender: elogie o que já funciona e traga a melhoria.",
+      "miniatura": "media/cortes/aula04-02-elogie-antes-de-sugerir.jpg",
+      "video": "media/cortes/aula04-02-elogie-antes-de-sugerir.mp4",
+      "fonte": "#/lives/aula-04-truque-do-presente-online?t=1593",
+      "rotuloFonte": "Ver no guia da live (26:33)",
+      "tags": [
+        "abordagem",
+        "presente online"
+      ]
+    },
+    {
+      "id": "corte-aula04-03",
+      "titulo": "Ache os vídeos acima da média do perfil",
+      "slug": "aula04-os-videos-acima-da-media",
+      "categoria": "Presente online",
+      "data": "2026-10-26",
+      "duracao": "2:08",
+      "descricao": "Compare as visualizações, salve os que performaram mais e descubra o que eles têm em comum.",
+      "miniatura": "media/cortes/aula04-03-os-videos-acima-da-media.jpg",
+      "video": "media/cortes/aula04-03-os-videos-acima-da-media.mp4",
+      "fonte": "#/lives/aula-04-truque-do-presente-online?t=1994",
+      "rotuloFonte": "Ver no guia da live (33:15)",
+      "tags": [
+        "análise",
+        "referências"
+      ]
+    },
+    {
+      "id": "corte-aula04-04",
+      "titulo": "A análise de perfil que abriu a porta de um expert",
+      "slug": "aula04-a-analise-que-abriu-a-porta",
+      "categoria": "Case",
+      "data": "2026-10-26",
+      "duracao": "1:37",
+      "descricao": "Como a Isa transformou os vídeos que mais performaram em 4 formatos para um expert repetir.",
+      "miniatura": "media/cortes/aula04-04-a-analise-que-abriu-a-porta.jpg",
+      "video": "media/cortes/aula04-04-a-analise-que-abriu-a-porta.mp4",
+      "fonte": "#/lives/aula-04-truque-do-presente-online?t=2332",
+      "rotuloFonte": "Ver no guia da live (38:53)",
+      "tags": [
+        "case",
+        "presente online"
+      ]
+    },
+    {
+      "id": "corte-aula04-05",
+      "titulo": "Mentalidade AI First",
+      "slug": "aula04-mentalidade-ai-first",
+      "categoria": "Mentalidade",
+      "data": "2026-10-26",
+      "duracao": "1:10",
+      "descricao": "Antes de perguntar no grupo, pergunte para a IA: dá para aprender quase tudo trocando ideia com ela.",
+      "miniatura": "media/cortes/aula04-05-mentalidade-ai-first.jpg",
+      "video": "media/cortes/aula04-05-mentalidade-ai-first.mp4",
+      "fonte": "#/lives/aula-04-truque-do-presente-online?t=3259",
+      "rotuloFonte": "Ver no guia da live (54:19)",
+      "tags": [
+        "IA",
+        "mentalidade"
+      ]
+    },
+    {
+      "id": "corte-aula04-06",
+      "titulo": "10 mensagens por dia, 300 no mês",
+      "slug": "aula04-10-mensagens-por-dia",
+      "categoria": "Prospecção",
+      "data": "2026-10-26",
+      "duracao": "0:42",
+      "descricao": "Para o “time da preguiça”: nem precisa de presente, só não pode ficar parado.",
+      "miniatura": "media/cortes/aula04-06-10-mensagens-por-dia.jpg",
+      "video": "media/cortes/aula04-06-10-mensagens-por-dia.mp4",
+      "fonte": "#/lives/aula-04-truque-do-presente-online?t=3501",
+      "rotuloFonte": "Ver no guia da live (58:22)",
+      "tags": [
+        "prospecção",
+        "mentalidade"
+      ]
+    },
+    {
+      "id": "corte-aula04-07",
+      "titulo": "Do presente para a reunião",
+      "slug": "aula04-do-presente-para-a-reuniao",
+      "categoria": "Abordagem",
+      "data": "2026-10-26",
+      "duracao": "1:47",
+      "descricao": "O que falar depois de entregar o presente para marcar a conversa sobre o seu trabalho.",
+      "miniatura": "media/cortes/aula04-07-do-presente-para-a-reuniao.jpg",
+      "video": "media/cortes/aula04-07-do-presente-para-a-reuniao.mp4",
+      "fonte": "#/lives/aula-04-truque-do-presente-online?t=5019",
+      "rotuloFonte": "Ver no guia da live (1:23:39)",
+      "tags": [
+        "reunião",
+        "abordagem"
+      ]
+    },
+    {
+      "id": "corte-aula04-08",
+      "titulo": "A mensagem para quem não respondeu",
+      "slug": "aula04-mensagem-para-quem-nao-respondeu",
+      "categoria": "Follow-up",
+      "data": "2026-10-26",
+      "duracao": "1:17",
+      "descricao": "Reforço direto que deixa claro que você não quer perder o tempo de ninguém.",
+      "miniatura": "media/cortes/aula04-08-mensagem-para-quem-nao-respondeu.jpg",
+      "video": "media/cortes/aula04-08-mensagem-para-quem-nao-respondeu.mp4",
+      "fonte": "#/lives/aula-04-truque-do-presente-online?t=5395",
+      "rotuloFonte": "Ver no guia da live (1:29:55)",
+      "tags": [
+        "follow-up"
+      ]
+    },
+    {
+      "id": "corte-aula04-09",
+      "titulo": "Quem pergunta domina e a técnica do salame",
+      "slug": "aula04-a-tecnica-do-salame",
+      "categoria": "Vendas",
+      "data": "2026-10-26",
+      "duracao": "0:48",
+      "descricao": "Sem sede ao pote: devolva com pergunta e avance devagarzinho.",
+      "miniatura": "media/cortes/aula04-09-a-tecnica-do-salame.jpg",
+      "video": "media/cortes/aula04-09-a-tecnica-do-salame.mp4",
+      "fonte": "#/lives/aula-04-truque-do-presente-online?t=5766",
+      "rotuloFonte": "Ver no guia da live (1:36:07)",
+      "tags": [
+        "vendas",
+        "reunião"
+      ]
+    },
+    {
+      "id": "corte-aula02-01",
+      "titulo": "O presente é uma semente",
+      "slug": "aula02-o-presente-e-uma-semente",
+      "categoria": "Mentalidade",
+      "data": "2026-10-22",
+      "duracao": "1:31",
+      "descricao": "Uma cobertura de graça em julho, nenhum retorno… e em outubro o cliente voltou querendo contratar.",
+      "miniatura": "media/cortes/aula02-01-o-presente-e-uma-semente.jpg",
+      "video": "media/cortes/aula02-01-o-presente-e-uma-semente.mp4",
+      "fonte": "#/lives/aula-02-prospeccao-na-pratica?t=855",
+      "rotuloFonte": "Ver no guia da live (14:15)",
+      "tags": [
+        "truque do presente",
+        "mentalidade",
+        "case"
+      ]
+    },
+    {
+      "id": "corte-aula02-02",
+      "titulo": "Cada “não” é um pagamento",
+      "slug": "aula02-cada-nao-e-um-pagamento",
+      "categoria": "Mentalidade",
+      "data": "2026-10-22",
+      "duracao": "1:14",
+      "descricao": "A história do vendedor que entendeu que cada porta batida já valia dinheiro.",
+      "miniatura": "media/cortes/aula02-02-cada-nao-e-um-pagamento.jpg",
+      "video": "media/cortes/aula02-02-cada-nao-e-um-pagamento.mp4",
+      "fonte": "#/lives/aula-02-prospeccao-na-pratica?t=1018",
+      "rotuloFonte": "Ver no guia da live (16:58)",
+      "tags": [
+        "mentalidade",
+        "vendas"
+      ]
+    },
+    {
+      "id": "corte-aula02-03",
+      "titulo": "Comece pela fruta baixa",
+      "slug": "aula02-a-fruta-baixa",
+      "categoria": "Prospecção",
+      "data": "2026-10-22",
+      "duracao": "1:46",
+      "descricao": "Conhecidos, indicações e negócios perto de casa: as pessoas que estão a uma mensagem de você.",
+      "miniatura": "media/cortes/aula02-03-a-fruta-baixa.jpg",
+      "video": "media/cortes/aula02-03-a-fruta-baixa.mp4",
+      "fonte": "#/lives/aula-02-prospeccao-na-pratica?t=1512",
+      "rotuloFonte": "Ver no guia da live (25:12)",
+      "tags": [
+        "prospecção",
+        "alvo"
+      ]
+    },
+    {
+      "id": "corte-aula02-04",
+      "titulo": "Você é o técnico, não o jogador",
+      "slug": "aula02-voce-e-o-tecnico-nao-o-jogador",
+      "categoria": "Mentalidade",
+      "data": "2026-10-22",
+      "duracao": "1:36",
+      "descricao": "Não precisa ter milhões de seguidores para gerar resultado para o cliente.",
+      "miniatura": "media/cortes/aula02-04-voce-e-o-tecnico-nao-o-jogador.jpg",
+      "video": "media/cortes/aula02-04-voce-e-o-tecnico-nao-o-jogador.mp4",
+      "fonte": "#/lives/aula-02-prospeccao-na-pratica?t=3132",
+      "rotuloFonte": "Ver no guia da live (52:13)",
+      "tags": [
+        "mentalidade",
+        "objeções"
+      ]
+    },
+    {
+      "id": "corte-aula02-05",
+      "titulo": "A mensagem para um conhecido",
+      "slug": "aula02-mensagem-para-um-conhecido",
+      "categoria": "Prospecção",
+      "data": "2026-10-22",
+      "duracao": "1:00",
+      "descricao": "Explique o que você faz, mostre o que a pessoa ganha e ofereça o presente.",
+      "miniatura": "media/cortes/aula02-05-mensagem-para-um-conhecido.jpg",
+      "video": "media/cortes/aula02-05-mensagem-para-um-conhecido.mp4",
+      "fonte": "#/lives/aula-02-prospeccao-na-pratica?t=3793",
+      "rotuloFonte": "Ver no guia da live (1:03:13)",
+      "tags": [
+        "mensagem",
+        "prospecção"
+      ]
+    },
+    {
+      "id": "corte-aula02-06",
+      "titulo": "Elogie e agregue, nunca critique",
+      "slug": "aula02-elogie-e-agregue-nunca-critique",
+      "categoria": "Abordagem",
+      "data": "2026-10-22",
+      "duracao": "1:38",
+      "descricao": "Criticar o conteúdo de quem você quer atender fecha a porta na hora.",
+      "miniatura": "media/cortes/aula02-06-elogie-e-agregue-nunca-critique.jpg",
+      "video": "media/cortes/aula02-06-elogie-e-agregue-nunca-critique.mp4",
+      "fonte": "#/lives/aula-02-prospeccao-na-pratica?t=4146",
+      "rotuloFonte": "Ver no guia da live (1:09:06)",
+      "tags": [
+        "abordagem",
+        "prospecção"
+      ]
+    },
+    {
+      "id": "corte-aula02-07",
+      "titulo": "Sempre leve para a reunião",
+      "slug": "aula02-sempre-leve-para-a-reuniao",
+      "categoria": "Vendas",
+      "data": "2026-10-22",
+      "duracao": "0:50",
+      "descricao": "A técnica do salame: não explique tudo na DM, marque a conversa com duas opções.",
+      "miniatura": "media/cortes/aula02-07-sempre-leve-para-a-reuniao.jpg",
+      "video": "media/cortes/aula02-07-sempre-leve-para-a-reuniao.mp4",
+      "fonte": "#/lives/aula-02-prospeccao-na-pratica?t=4465",
+      "rotuloFonte": "Ver no guia da live (1:14:26)",
+      "tags": [
+        "reunião",
+        "vendas"
+      ]
+    },
+    {
+      "id": "corte-aula02-08",
+      "titulo": "Braço travado, corpo que mexe",
+      "slug": "aula02-braco-travado-corpo-que-mexe",
+      "categoria": "Gravação",
+      "data": "2026-10-22",
+      "duracao": "0:58",
+      "descricao": "O segredo para os takes do presente não tremerem.",
+      "miniatura": "media/cortes/aula02-08-braco-travado-corpo-que-mexe.jpg",
+      "video": "media/cortes/aula02-08-braco-travado-corpo-que-mexe.mp4",
+      "fonte": "#/lives/aula-02-prospeccao-na-pratica?t=6631",
+      "rotuloFonte": "Ver no guia da live (1:50:32)",
+      "tags": [
+        "gravação",
+        "estabilidade"
+      ]
+    },
+    {
+      "id": "corte-aula02-09",
+      "titulo": "Use a luz a seu favor",
+      "slug": "aula02-use-a-luz-a-seu-favor",
+      "categoria": "Gravação",
+      "data": "2026-10-22",
+      "duracao": "1:37",
+      "descricao": "Mesmo lugar, mesma câmera: muda só a posição em relação à luz.",
+      "miniatura": "media/cortes/aula02-09-use-a-luz-a-seu-favor.jpg",
+      "video": "media/cortes/aula02-09-use-a-luz-a-seu-favor.mp4",
+      "fonte": "#/lives/aula-02-prospeccao-na-pratica?t=7293",
+      "rotuloFonte": "Ver no guia da live (2:01:33)",
+      "tags": [
+        "gravação",
+        "luz"
+      ]
+    },
+    {
+      "id": "corte-aula02-10",
+      "titulo": "A ordem dos takes conta uma história",
+      "slug": "aula02-a-ordem-dos-takes-conta-uma-historia",
+      "categoria": "Edição",
+      "data": "2026-10-22",
+      "duracao": "2:00",
+      "descricao": "Fachada, entrada, atendimento, consumo: sem falar nada, o vídeo já tem narrativa.",
+      "miniatura": "media/cortes/aula02-10-a-ordem-dos-takes-conta-uma-historia.jpg",
+      "video": "media/cortes/aula02-10-a-ordem-dos-takes-conta-uma-historia.mp4",
+      "fonte": "#/lives/aula-02-prospeccao-na-pratica?t=7544",
+      "rotuloFonte": "Ver no guia da live (2:05:44)",
+      "tags": [
+        "edição",
+        "narrativa"
+      ]
+    },
+    {
+      "id": "corte-aula02-11",
+      "titulo": "Mesmo ruim é melhor que nada",
+      "slug": "aula02-mesmo-ruim-e-melhor-que-nada",
+      "categoria": "Mentalidade",
+      "data": "2026-10-22",
+      "duracao": "0:28",
+      "descricao": "Para quem não tinha nenhum vídeo do negócio, o seu presente já é maravilhoso.",
+      "miniatura": "media/cortes/aula02-11-mesmo-ruim-e-melhor-que-nada.jpg",
+      "video": "media/cortes/aula02-11-mesmo-ruim-e-melhor-que-nada.mp4",
+      "fonte": "#/lives/aula-02-prospeccao-na-pratica?t=7735",
+      "rotuloFonte": "Ver no guia da live (2:08:55)",
+      "tags": [
+        "mentalidade",
+        "truque do presente"
+      ]
     }
   ]
 }

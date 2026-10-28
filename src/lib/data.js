@@ -39,6 +39,12 @@ export async function porSlug(nome, slug) {
   return (await carregarColecao(nome)).find(i => i.slug === slug) || null;
 }
 
+/** Vídeos da galeria do grupo (public/content/galeria.json). */
+export async function carregarGaleria() {
+  const dados = await buscarJson("content/galeria.json");
+  return (dados.itens || []).filter(v => v.publicado !== false && v.video);
+}
+
 /** Cortes de uma live, na ordem em que aparecem na live. */
 export async function cortesDaLive(live) {
   const cortes = await carregarColecao("cortes");

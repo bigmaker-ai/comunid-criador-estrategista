@@ -13,9 +13,25 @@
 </head>
 <body>
   <a class="skip" href="#conteudo">Pular para o conteúdo</a>
+  <aside class="lateral" id="lateral" aria-label="Menu">
+    <div class="lateral__topo">
+      <span class="eyebrow eyebrow--pixel">✺ Áreas</span>
+      <button type="button" class="lateral__fechar" id="lateral-fechar" aria-label="Fechar menu">✕</button>
+    </div>
+    <nav class="lateral__nav" id="nav" aria-label="Principal">
+      <a href="#/" data-nav="lives"><span data-icone="lista"></span><span><strong>Lives</strong><small>Tarefas, cortes e guia</small></span></a>
+      <a href="#/galeria" data-nav="galeria"><span data-icone="video"></span><span><strong>Galeria do grupo</strong><small>Vídeos feitos pela turma</small></span></a>
+    </nav>
+    <p class="lateral__rodape">Criador Estrategista<br>turma fundadora</p>
+  </aside>
+  <div class="lateral__fundo" id="lateral-fundo" hidden></div>
+
   <header class="topo" id="topo">
     <div class="topo__inner">
-      <a class="marca" href="#/" aria-label="Página inicial">
+      <button type="button" class="menu-btn" id="menu-btn" aria-expanded="false" aria-controls="lateral" aria-label="Abrir menu">
+        <span></span><span></span><span></span>
+      </button>
+      <a class="marca" id="marca" href="#/" aria-label="Página inicial">
         <span class="marca__selo" aria-hidden="true">✺</span>
         <span class="marca__texto"><small>Resumos das lives</small><strong>Criadores do Futuro</strong></span>
       </a>

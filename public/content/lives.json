@@ -247,6 +247,809 @@
         "corte-aula01-10",
         "corte-aula01-11"
       ]
+    },
+    {
+      "id": "live-aula-03",
+      "titulo": "Aula 03: PCF, o caminho completo da venda",
+      "slug": "aula-03-pcf-caminho-da-venda",
+      "categoria": "Aula aberta (comunidade)",
+      "data": "2026-10-23",
+      "duracao": "2:23:16",
+      "descricao": "O método de vendas do Rodrigo de ponta a ponta: Prospecção, Conexão e Fechamento, com exemplos de mensagens e simulações ao vivo.",
+      "miniatura": "media/capas/aula-03.jpg",
+      "linkLive": "https://hotmart.com/pt-BR/club/edicaodofuturopelocapcut/products/8686250/content/3ea20PLq7g",
+      "video": "",
+      "tags": [
+        "vendas",
+        "prospecção",
+        "fechamento",
+        "follow-up"
+      ],
+      "tarefas": [],
+      "capitulos": [
+        {
+          "t": "0:02:04",
+          "titulo": "Quem são Rodrigo e Isa",
+          "resumo": "Criadores estrategistas há três anos e sócios do Aleph e da Hannah no novo produto."
+        },
+        {
+          "t": "0:05:06",
+          "titulo": "A história do Rodrigo com vendas",
+          "resumo": "De vendedor de perfume a videomaker do mercado digital: venda é habilidade que se aprende."
+        },
+        {
+          "t": "0:11:12",
+          "titulo": "Seu problema não é a entrega, é a venda",
+          "resumo": "O convite da aula: quem já entrega valor só precisa aprender a vender."
+        },
+        {
+          "t": "0:12:14",
+          "titulo": "O chat: profissão e maior dificuldade de venda",
+          "resumo": "A turma conta onde trava. A aula foi montada em cima disso."
+        },
+        {
+          "t": "0:23:35",
+          "titulo": "O método PCF",
+          "resumo": "Prospecção, Conexão e Fechamento, do primeiro contato à recorrência.",
+          "destaque": true
+        },
+        {
+          "t": "0:24:36",
+          "titulo": "Alvo: quem é o seu cliente ideal",
+          "resumo": "Sem alvo não tem como acertar: quem são, onde estão e o que pensam.",
+          "destaque": true
+        },
+        {
+          "t": "0:26:45",
+          "titulo": "Seu perfil comunica para o cliente certo?",
+          "resumo": "Bio, fotos e vida pessoal: atrair ou afastar quem você quer atender."
+        },
+        {
+          "t": "0:30:17",
+          "titulo": "Pesquisa: roube como um artista",
+          "resumo": "Estude os concorrentes e leia os comentários: os comentários são ouro."
+        },
+        {
+          "t": "0:36:28",
+          "titulo": "Cliente oculto",
+          "resumo": "Mande mensagem para o concorrente e veja como ele atende."
+        },
+        {
+          "t": "0:41:35",
+          "titulo": "Os tipos de prospecção",
+          "resumo": "Ativa, tráfego e reativa."
+        },
+        {
+          "t": "0:43:36",
+          "titulo": "Prospecção ativa: WhatsApp, DM, e-mail, telefone… e carta",
+          "resumo": "Os canais para ir atrás do cliente."
+        },
+        {
+          "t": "0:46:42",
+          "titulo": "“Facas reconhecem facas”: o presente que virou R$ 200 mil",
+          "resumo": "O caso do evento, do bilhete na mesa e dos contratos que vieram depois.",
+          "destaque": true
+        },
+        {
+          "t": "0:49:46",
+          "titulo": "O que você pode dar de graça no seu serviço?",
+          "resumo": "Uma experiência que não comprometa o produto principal."
+        },
+        {
+          "t": "0:52:50",
+          "titulo": "Os princípios de uma mensagem de prospecção",
+          "resumo": "Comece pelo porquê, mostre o problema que resolve, traga uma ideia prática e convide para uma reunião.",
+          "destaque": true
+        },
+        {
+          "t": "0:54:58",
+          "titulo": "Exemplos de mensagens reais",
+          "resumo": "As mensagens que fecharam contratos, inclusive em outros idiomas."
+        },
+        {
+          "t": "1:02:07",
+          "titulo": "Prospecção reativa: conteúdo e recomendação",
+          "resumo": "Os destaques do Instagram como vitrine para quem chega por indicação."
+        },
+        {
+          "t": "1:07:15",
+          "titulo": "Relacionamento: empatia, saber ouvir e entender de pessoas",
+          "resumo": "O que está por trás do que o cliente fala."
+        },
+        {
+          "t": "1:09:20",
+          "titulo": "Não seja panfleteiro: quem pergunta domina",
+          "resumo": "Por que sair mandando preço afasta o cliente.",
+          "destaque": true
+        },
+        {
+          "t": "1:11:23",
+          "titulo": "Quando a pessoa só pergunta o preço",
+          "resumo": "Antes do preço, entenda se faz sentido para ela."
+        },
+        {
+          "t": "1:14:28",
+          "titulo": "Simulação ao vivo: vender certeza, não resultado",
+          "resumo": "Uma venda simulada com uma aluna, ao vivo.",
+          "destaque": true
+        },
+        {
+          "t": "1:19:39",
+          "titulo": "O que é passar valor",
+          "resumo": "Motivos lógicos e emocionais para comprar."
+        },
+        {
+          "t": "1:22:47",
+          "titulo": "Razão, emoção e a sua imagem",
+          "resumo": "Você também é o produto: cuide de como você se apresenta."
+        },
+        {
+          "t": "1:24:54",
+          "titulo": "C de Conexão: reunião e apresentação do produto",
+          "resumo": "Como seguir para a reunião."
+        },
+        {
+          "t": "1:26:56",
+          "titulo": "Follow-up: acompanhe até a decisão",
+          "resumo": "E pare de ser mole na comunicação."
+        },
+        {
+          "t": "1:28:00",
+          "titulo": "Medo do conhecido x medo do desconhecido",
+          "resumo": "Conversa ao vivo com uma aluna sobre o medo de começar.",
+          "destaque": true
+        },
+        {
+          "t": "1:36:27",
+          "titulo": "Coragem é ir com medo",
+          "resumo": "Os primeiros vídeos eram ruins e tudo bem: melhore no próximo."
+        },
+        {
+          "t": "1:40:34",
+          "titulo": "A mensagem para quem sumiu",
+          "resumo": "Como retomar quem não respondeu sem encher o saco.",
+          "destaque": true
+        },
+        {
+          "t": "1:43:40",
+          "titulo": "Mapa das Vendas: personagem e problema",
+          "resumo": "Os primeiros minutos da reunião são sobre o cliente."
+        },
+        {
+          "t": "1:45:46",
+          "titulo": "A técnica “se eu, você”",
+          "resumo": "Ofereça algo em troca de um passo do cliente."
+        },
+        {
+          "t": "1:50:02",
+          "titulo": "A técnica das duas opções",
+          "resumo": "Pergunta fechada gera “não”."
+        },
+        {
+          "t": "1:52:05",
+          "titulo": "Fechamento: “vou pensar”",
+          "resumo": "Deixa eu te ajudar a pensar.",
+          "destaque": true
+        },
+        {
+          "t": "1:54:09",
+          "titulo": "O plano que resolve cada problema",
+          "resumo": "Responda cada dificuldade do cliente e conduza com escolhas."
+        },
+        {
+          "t": "1:57:17",
+          "titulo": "O fracasso que evita e o sucesso que alcança",
+          "resumo": "Os dois lados que o plano precisa mostrar."
+        },
+        {
+          "t": "2:00:21",
+          "titulo": "“Preciso ver com minha esposa/sócio”",
+          "resumo": "Como lidar sem forçar."
+        },
+        {
+          "t": "2:01:21",
+          "titulo": "A cliente que levou um mês e meio para fechar",
+          "resumo": "De “não posso agora” a contrato fechado.",
+          "destaque": true
+        },
+        {
+          "t": "2:03:22",
+          "titulo": "A verdade vende",
+          "resumo": "Não prometa resultado: prometa trabalho."
+        },
+        {
+          "t": "2:07:25",
+          "titulo": "Entrega: o prometido e um pouco a mais",
+          "resumo": "O bônus que o cliente só descobre depois.",
+          "destaque": true
+        },
+        {
+          "t": "2:12:31",
+          "titulo": "Up-service, indicação infinita e recorrência",
+          "resumo": "Venda mais para o mesmo cliente e crie programas de indicação."
+        },
+        {
+          "t": "2:18:38",
+          "titulo": "Renovação: prepare antes do contrato acabar",
+          "resumo": "Deixe clara a próxima leva antes do fim."
+        },
+        {
+          "t": "2:20:40",
+          "titulo": "Encerramento",
+          "resumo": "Perguntas finais e próximos passos."
+        }
+      ],
+      "cortes": [
+        "corte-aula03-01",
+        "corte-aula03-02",
+        "corte-aula03-03",
+        "corte-aula03-04",
+        "corte-aula03-05",
+        "corte-aula03-06",
+        "corte-aula03-07",
+        "corte-aula03-08",
+        "corte-aula03-09",
+        "corte-aula03-10"
+      ]
+    },
+    {
+      "id": "live-aula-04",
+      "titulo": "Aula 04: Truque do presente online",
+      "slug": "aula-04-truque-do-presente-online",
+      "categoria": "Aula ao vivo",
+      "data": "2026-10-26",
+      "duracao": "1:46:24",
+      "descricao": "Os 3 presentes que dá para fazer sem sair de casa (análise de perfil, ideia de conteúdo e roteiro) e como puxar o cliente para a reunião depois do presente.",
+      "miniatura": "media/capas/aula-04.jpg",
+      "linkLive": "https://hotmart.com/pt-BR/club/edicaodofuturopelocapcut/products/8686250/content/LO0r8RWYeG",
+      "video": "",
+      "tags": [
+        "presente online",
+        "análise de perfil",
+        "roteiro",
+        "follow-up"
+      ],
+      "tarefas": [
+        {
+          "t": "1:28:26",
+          "texto": "Assistir à aula de sexta (Aula 03: PCF, o caminho completo da venda) antes da aula de quinta. Ela é a base do Mapa das Vendas."
+        },
+        {
+          "t": "1:43:45",
+          "texto": "Até quinta: quem não entregou presente, entrega; quem não mandou mensagem de prospecção, manda; quem já entregou, tenta recuperar os clientes; quem tem reunião marcada, faz a reunião."
+        }
+      ],
+      "capitulos": [
+        {
+          "t": "0:02:30",
+          "titulo": "O que tem na aula de hoje",
+          "resumo": "Presente online primeiro. O Mapa das Vendas ficou para a próxima aula."
+        },
+        {
+          "t": "0:03:34",
+          "titulo": "Em que etapa você está?",
+          "resumo": "Quem já entregou presente, marcou reunião, foi “ghostado” ou fechou contrato."
+        },
+        {
+          "t": "0:06:42",
+          "titulo": "Os 3 tipos de presente online",
+          "resumo": "Análise de perfil, ideia de conteúdo e roteiro."
+        },
+        {
+          "t": "0:07:47",
+          "titulo": "Presente 1: análise de bio",
+          "resumo": "Começando pelo perfil de uma cabeleireira."
+        },
+        {
+          "t": "0:10:54",
+          "titulo": "As 4 coisas que toda bio precisa ter",
+          "resumo": "O que faz, autoridade, onde fica e chamada para ação.",
+          "destaque": true
+        },
+        {
+          "t": "0:13:00",
+          "titulo": "Bios boas e ruins na prática",
+          "resumo": "Exemplos de dentistas e outros nichos."
+        },
+        {
+          "t": "0:15:07",
+          "titulo": "Analisando os destaques",
+          "resumo": "Depoimentos, antes e depois, provador e perguntas frequentes."
+        },
+        {
+          "t": "0:18:12",
+          "titulo": "Compare perfis do mesmo nicho",
+          "resumo": "O que tem de bom num e falta no outro vira a sua sugestão."
+        },
+        {
+          "t": "0:19:14",
+          "titulo": "Por que isso passa autoridade",
+          "resumo": "Um perfil despreparado atrapalha até o resultado dos seus vídeos."
+        },
+        {
+          "t": "0:23:21",
+          "titulo": "Como enviar a análise",
+          "resumo": "A mensagem com a sugestão de bio e destaques."
+        },
+        {
+          "t": "0:26:33",
+          "titulo": "Elogie antes de sugerir",
+          "resumo": "Nunca critique o trabalho da pessoa.",
+          "destaque": true
+        },
+        {
+          "t": "0:27:35",
+          "titulo": "Presente 2: ideia de conteúdo + referência",
+          "resumo": "Para o perfil que só panfleta (exemplo: agência de viagem)."
+        },
+        {
+          "t": "0:30:55",
+          "titulo": "Formato validado e mensagem modelo",
+          "resumo": "Como apresentar a referência e abrir a conversa."
+        },
+        {
+          "t": "0:31:56",
+          "titulo": "Quem já produz: os vídeos acima da média",
+          "resumo": "Salve os que mais performaram e descubra o que eles têm em comum.",
+          "destaque": true
+        },
+        {
+          "t": "0:38:09",
+          "titulo": "Caso real: a análise que abriu a porta de um expert",
+          "resumo": "Os 4 formatos sugeridos a partir dos melhores vídeos dele.",
+          "destaque": true
+        },
+        {
+          "t": "0:43:18",
+          "titulo": "Descubra o tipo de presente que combina com você",
+          "resumo": "Cada um vai ter mais facilidade com um tipo de presente."
+        },
+        {
+          "t": "0:45:20",
+          "titulo": "Perfil sem conteúdo: sugira formatos do nicho",
+          "resumo": "Exemplo do salão: abordagem na rua e teste às cegas."
+        },
+        {
+          "t": "0:48:20",
+          "titulo": "Perfis grandes também precisam de gente boa",
+          "resumo": "Não trave achando que a pessoa já tem equipe."
+        },
+        {
+          "t": "0:49:21",
+          "titulo": "Presente 3: um roteiro de presente",
+          "resumo": "Simples, sem briefing, só para abrir a porta."
+        },
+        {
+          "t": "0:51:28",
+          "titulo": "Dá para vender só roteiro?",
+          "resumo": "Dá, mas o trabalho completo rende mais."
+        },
+        {
+          "t": "0:52:29",
+          "titulo": "Mentalidade AI First",
+          "resumo": "Antes do grupo, pergunte para a IA.",
+          "destaque": true
+        },
+        {
+          "t": "0:56:34",
+          "titulo": "10 mensagens por dia, 300 no mês",
+          "resumo": "Para quem não quer fazer presente: só não pode ficar parado.",
+          "destaque": true
+        },
+        {
+          "t": "1:01:41",
+          "titulo": "Recado para a turma fundadora",
+          "resumo": "A comunidade que eles querem construir e o sonho de invadir um evento com presentes."
+        },
+        {
+          "t": "1:10:51",
+          "titulo": "Roteiro de presente na prática",
+          "resumo": "Gemini transcreve, o ChatGPT analisa a estrutura e escreve um roteiro novo.",
+          "destaque": true
+        },
+        {
+          "t": "1:17:04",
+          "titulo": "Ajustando o gancho com a IA",
+          "resumo": "Copiar a estrutura, nunca o roteiro."
+        },
+        {
+          "t": "1:20:13",
+          "titulo": "Nicho muito específico?",
+          "resumo": "Use palavras-chave e associações com o que o nicho fala."
+        },
+        {
+          "t": "1:23:18",
+          "titulo": "Depois do presente: como puxar para a reunião",
+          "resumo": "O presente é para a pessoa conhecer o seu trabalho.",
+          "destaque": true
+        },
+        {
+          "t": "1:25:23",
+          "titulo": "Abordagem com ideias já separadas",
+          "resumo": "Mostre o que outros negócios do nicho estão fazendo."
+        },
+        {
+          "t": "1:27:26",
+          "titulo": "Treine com a IA fingindo ser o cliente",
+          "resumo": "Use o modo de voz para praticar a conversa."
+        },
+        {
+          "t": "1:28:26",
+          "titulo": "Quando o cliente some: a mensagem de reforço",
+          "resumo": "Direto na ferida, sem encher o saco.",
+          "destaque": true
+        },
+        {
+          "t": "1:31:29",
+          "titulo": "Cada nível desbloqueia um medo novo",
+          "resumo": "É normal ter medo do próximo passo."
+        },
+        {
+          "t": "1:33:31",
+          "titulo": "Caso: “não consigo parar 100% pra reunião”",
+          "resumo": "Devolva com pergunta em vez de explicar tudo por áudio."
+        },
+        {
+          "t": "1:35:35",
+          "titulo": "Quem pergunta domina e a técnica do salame",
+          "resumo": "Sem sede ao pote: devagarzinho."
+        },
+        {
+          "t": "1:36:37",
+          "titulo": "Próximos passos: Mapa das Vendas na quinta",
+          "resumo": "Decisão de deixar o mapa para a próxima aula."
+        },
+        {
+          "t": "1:41:43",
+          "titulo": "Vem aí o Guia do Criador Estrategista",
+          "resumo": "Um mapa do passo zero à renovação do cliente."
+        },
+        {
+          "t": "1:43:45",
+          "titulo": "Missão até quinta e encerramento",
+          "resumo": "Entregar presente, mandar mensagem, recuperar clientes e fazer as reuniões."
+        }
+      ],
+      "cortes": [
+        "corte-aula04-01",
+        "corte-aula04-02",
+        "corte-aula04-03",
+        "corte-aula04-04",
+        "corte-aula04-05",
+        "corte-aula04-06",
+        "corte-aula04-07",
+        "corte-aula04-08",
+        "corte-aula04-09"
+      ]
+    },
+    {
+      "id": "live-aula-02",
+      "titulo": "Aula 02: Prospecção na prática",
+      "slug": "aula-02-prospeccao-na-pratica",
+      "categoria": "Aula ao vivo",
+      "data": "2026-10-22",
+      "duracao": "2:59:33",
+      "descricao": "Do alvo à reunião marcada: quem abordar, a mensagem que funciona (escrita junto com a turma) e como gravar e editar um presente bonito.",
+      "miniatura": "media/capas/aula-02.jpg",
+      "linkLive": "https://hotmart.com/pt-BR/club/edicaodofuturopelocapcut/products/8686250/content/LO0rkrKaeG",
+      "video": "",
+      "tags": [
+        "prospecção",
+        "mensagem",
+        "gravação",
+        "edição",
+        "CapCut"
+      ],
+      "tarefas": [
+        {
+          "t": "2:43:31",
+          "texto": "Missão para o dia seguinte: mandar mensagem para todas as pessoas que você listou na aula. No fim de semana, executar os presentes."
+        },
+        {
+          "t": "2:53:46",
+          "texto": "Desafio valendo a partir desta aula: quem faturar R$ 3 mil com clientes novos em 60 dias ganha um encontro individual com o Rodrigo e a Isa (3 vagas). Quem fechar um cliente de R$ 1 mil entra no sorteio de mais encontros."
+        }
+      ],
+      "capitulos": [
+        {
+          "t": "0:09:42",
+          "titulo": "O que tem na aula",
+          "resumo": "Do alvo até a reunião marcada. O Mapa das Vendas fica para a próxima."
+        },
+        {
+          "t": "0:10:48",
+          "titulo": "Insegurança é normal: confie no processo",
+          "resumo": "A mente vai tentar te sabotar. Estamos só na segunda aula."
+        },
+        {
+          "t": "0:13:54",
+          "titulo": "O presente é uma semente",
+          "resumo": "A cobertura de graça que só deu retorno meses depois.",
+          "destaque": true
+        },
+        {
+          "t": "0:16:58",
+          "titulo": "Cada “não” é um pagamento",
+          "resumo": "A história do vendedor que contava cada porta batida como dinheiro.",
+          "destaque": true
+        },
+        {
+          "t": "0:19:01",
+          "titulo": "Compare-se só com você mesmo",
+          "resumo": "Olhe o seu progresso, não o do colega."
+        },
+        {
+          "t": "0:23:14",
+          "titulo": "Alvo: com quem você quer trabalhar",
+          "resumo": "Defina os nichos antes de prospectar."
+        },
+        {
+          "t": "0:24:16",
+          "titulo": "A fruta baixa",
+          "resumo": "Conhecidos, indicações e negócios perto de casa.",
+          "destaque": true
+        },
+        {
+          "t": "0:27:18",
+          "titulo": "Nichar? Só depois dos primeiros clientes",
+          "resumo": "Vá pela familiaridade e pelo que você gosta de estudar."
+        },
+        {
+          "t": "0:29:19",
+          "titulo": "Clientes compram de clientes",
+          "resumo": "Comece pelos lugares que você já frequenta."
+        },
+        {
+          "t": "0:30:20",
+          "titulo": "Exclusividade custa o dobro",
+          "resumo": "Atender só um cliente do nicho tem outro preço."
+        },
+        {
+          "t": "0:31:22",
+          "titulo": "Onde achar contatos: lista, Google Maps e Instagram",
+          "resumo": "E a IA para montar listas de negócios por cidade."
+        },
+        {
+          "t": "0:36:26",
+          "titulo": "Quem abordar primeiro",
+          "resumo": "O nicho com que você mais se identifica."
+        },
+        {
+          "t": "0:37:28",
+          "titulo": "Seja estratégico: quem pode virar SPP",
+          "resumo": "Priorize negócios que podem pagar por meses."
+        },
+        {
+          "t": "0:40:35",
+          "titulo": "Atividade: separe 5 contatos",
+          "resumo": "A turma monta a lista ao vivo."
+        },
+        {
+          "t": "0:46:48",
+          "titulo": "O que o empresário quer",
+          "resumo": "Ser visto, vender, ter seguidores. E não passar vergonha com o próprio perfil."
+        },
+        {
+          "t": "0:48:50",
+          "titulo": "Não prometa resultado, prometa o processo",
+          "resumo": "Testes, análise e repetição do que funciona.",
+          "destaque": true
+        },
+        {
+          "t": "0:51:53",
+          "titulo": "Você é o técnico, não o jogador",
+          "resumo": "Não precisa ter seguidores para gerar resultado para o cliente.",
+          "destaque": true
+        },
+        {
+          "t": "0:52:55",
+          "titulo": "Vem aí o guia com os scripts",
+          "resumo": "Mensagens prontas para cada etapa da jornada."
+        },
+        {
+          "t": "0:59:04",
+          "titulo": "A mensagem para um conhecido",
+          "resumo": "Construída ao vivo, passo a passo.",
+          "destaque": true
+        },
+        {
+          "t": "1:04:13",
+          "titulo": "A mensagem para quem não te conhece",
+          "resumo": "Olhei o seu Instagram e tive ideias de vídeos…"
+        },
+        {
+          "t": "1:06:15",
+          "titulo": "Fale do que a pessoa ganha, não do que você faz",
+          "resumo": "Ninguém se importa com o nome da sua profissão."
+        },
+        {
+          "t": "1:07:18",
+          "titulo": "Responder stories para abrir a DM",
+          "resumo": "Relacionamento antes de prospectar."
+        },
+        {
+          "t": "1:08:21",
+          "titulo": "Elogie e agregue, nunca critique",
+          "resumo": "O exemplo da mensagem que criticou a oratória de uma especialista.",
+          "destaque": true
+        },
+        {
+          "t": "1:11:35",
+          "titulo": "Personalize cada mensagem",
+          "resumo": "Mensagem genérica parece disparada para 30 pessoas."
+        },
+        {
+          "t": "1:13:38",
+          "titulo": "Sempre leve para a reunião: a técnica do salame",
+          "resumo": "Não revele tudo na DM.",
+          "destaque": true
+        },
+        {
+          "t": "1:15:41",
+          "titulo": "Não seja ansioso",
+          "resumo": "Texto gigante e preço na primeira mensagem fazem o cliente sumir."
+        },
+        {
+          "t": "1:16:41",
+          "titulo": "Prática ao vivo: escreva e mande a mensagem agora",
+          "resumo": "Quem não tem conhecido usa o Google Maps ou os stories."
+        },
+        {
+          "t": "1:23:50",
+          "titulo": "Correção das mensagens da turma",
+          "resumo": "O Rodrigo melhora ao vivo as mensagens enviadas no chat.",
+          "destaque": true
+        },
+        {
+          "t": "1:27:55",
+          "titulo": "Termine sempre com duas opções",
+          "resumo": "Essa semana ou na próxima? Amanhã ou depois?"
+        },
+        {
+          "t": "1:33:05",
+          "titulo": "Como apresentar o criador estrategista",
+          "resumo": "Uma profissão em alta lá fora que ajuda negócios a vender mais."
+        },
+        {
+          "t": "1:33:56",
+          "titulo": "Medo de abordar donos mais velhos",
+          "resumo": "Justamente eles costumam ser os que mais precisam."
+        },
+        {
+          "t": "1:39:11",
+          "titulo": "O truque do presente: o que ele não pode ser",
+          "resumo": "Nada complexo: simples, prático e de impacto visual."
+        },
+        {
+          "t": "1:42:19",
+          "titulo": "As 3 formas de começar",
+          "resumo": "Mensagem antes, abordagem ao chegar ou chegar com o vídeo pronto."
+        },
+        {
+          "t": "1:44:27",
+          "titulo": "Cuidados ao gravar no local",
+          "resumo": "Não interrompa atendimento e deixe as pessoas à vontade."
+        },
+        {
+          "t": "1:47:30",
+          "titulo": "Gravação na prática: lente limpa e fachada",
+          "resumo": "Começando pelo básico."
+        },
+        {
+          "t": "1:49:34",
+          "titulo": "Braço travado, corpo que mexe",
+          "resumo": "Os movimentos que não tremem.",
+          "destaque": true
+        },
+        {
+          "t": "1:51:38",
+          "titulo": "Revelação e aproximação",
+          "resumo": "Quem anda é você, não o braço."
+        },
+        {
+          "t": "1:53:43",
+          "titulo": "A grade da câmera e a linha dos olhos",
+          "resumo": "Ative a grade e enquadre melhor."
+        },
+        {
+          "t": "1:55:46",
+          "titulo": "Peça para a IA configurar a sua câmera",
+          "resumo": "Os ajustes de fábrica nem sempre são os melhores."
+        },
+        {
+          "t": "1:58:50",
+          "titulo": "Mostre os detalhes, não saia andando",
+          "resumo": "Takes curtos e variados de cada coisa."
+        },
+        {
+          "t": "2:00:53",
+          "titulo": "Use a luz a seu favor",
+          "resumo": "Mesmo lugar, outra posição, outra qualidade.",
+          "destaque": true
+        },
+        {
+          "t": "2:03:57",
+          "titulo": "Dirija a cena",
+          "resumo": "Peça para o funcionário repetir a ação com calma."
+        },
+        {
+          "t": "2:05:58",
+          "titulo": "A ordem dos takes conta uma história",
+          "resumo": "Fachada, entrada, atendimento, consumo.",
+          "destaque": true
+        },
+        {
+          "t": "2:07:00",
+          "titulo": "Mesmo ruim é melhor que nada",
+          "resumo": "O presente simples já deu resultado para muita gente."
+        },
+        {
+          "t": "2:10:04",
+          "titulo": "Edição na batida no Edits",
+          "resumo": "Selecionar a música, marcar as batidas e dividir os takes."
+        },
+        {
+          "t": "2:17:52",
+          "titulo": "A mesma coisa no CapCut, com filtros",
+          "resumo": "Extrair áudio, gerar ritmos e dar uma cor no vídeo."
+        },
+        {
+          "t": "2:25:05",
+          "titulo": "Modelos prontos do CapCut",
+          "resumo": "Escolha pelo número de takes e exporte sem marca d'água.",
+          "destaque": true
+        },
+        {
+          "t": "2:29:08",
+          "titulo": "Modelo e música que combinam com o negócio",
+          "resumo": "O que funciona para um bar não combina com uma psicóloga."
+        },
+        {
+          "t": "2:33:16",
+          "titulo": "FPS: 60 para câmera lenta, 30 para as redes",
+          "resumo": "Por que a câmera lenta trava."
+        },
+        {
+          "t": "2:39:27",
+          "titulo": "Exportação: 1080p e 30 fps",
+          "resumo": "E por que evitar o modo cinema."
+        },
+        {
+          "t": "2:42:30",
+          "titulo": "Missão para amanhã",
+          "resumo": "Mandar mensagem para todos da lista e fazer os presentes no fim de semana.",
+          "destaque": true
+        },
+        {
+          "t": "2:45:34",
+          "titulo": "Dúvidas: app da câmera e autorização de imagem",
+          "resumo": "Sem burocracia para um presente."
+        },
+        {
+          "t": "2:49:39",
+          "titulo": "Os 5 primeiros alunos e o desafio dos R$ 3 mil",
+          "resumo": "Encontro individual para quem chegar lá.",
+          "destaque": true
+        },
+        {
+          "t": "2:56:49",
+          "titulo": "Formato das aulas e encerramento",
+          "resumo": "Votação sobre as perguntas durante a aula."
+        }
+      ],
+      "cortes": [
+        "corte-aula02-01",
+        "corte-aula02-02",
+        "corte-aula02-03",
+        "corte-aula02-04",
+        "corte-aula02-05",
+        "corte-aula02-06",
+        "corte-aula02-07",
+        "corte-aula02-08",
+        "corte-aula02-09",
+        "corte-aula02-10",
+        "corte-aula02-11"
+      ]
     }
   ]
 }
