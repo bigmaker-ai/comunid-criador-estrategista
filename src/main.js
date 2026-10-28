@@ -17,7 +17,7 @@ rotaNaoEncontrada(alvo => {
 });
 
 const main = document.getElementById("conteudo");
-const NOME = "Resumos das lives · Criadores do Futuro";
+const NOME = "Resumos das lives · Criador Estrategista";
 let rotaAnterior = null;
 
 const nav = document.getElementById("nav");
